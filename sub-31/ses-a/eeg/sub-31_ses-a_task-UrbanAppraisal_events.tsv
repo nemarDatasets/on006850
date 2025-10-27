@@ -1,0 +1,1517 @@
+onset	duration	sample	type	value
+2.05802037805042	0	1030	Markers	event: experimentPt1Start
+2.07402053648035	0	1038	Markers	event: baselineStart
+182.075802873252	0	91038	Markers	event: baselineEnd
+187.18985351142	0	93595	Markers	event: anchorsPresented; scale: SAM-arousal
+188.211863631132	0	94106	Markers	event: fixationCrossStart
+188.711868582067	0	94356	Markers	event: fixationCrossEnd
+189.223873651825	0	94612	Markers	event: presentedStimulus; stimulus:HTHB15
+192.259903713905	0	96130	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB15
+197.117951817194	0	98559	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB15; response: 5
+197.231952946008	0	98616	Markers	event: anchorsPresented; scale: Likert-Faszination
+198.249963026112	0	99125	Markers	event: fixationCrossStart
+198.749967977048	0	99375	Markers	event: fixationCrossEnd
+199.267973106217	0	99634	Markers	event: presentedStimulus; stimulus:HTLB13
+202.286002990064	0	101143	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB13
+206.458044300669	0	103229	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB13; response: 1
+206.490044617529	0	103245	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+207.508054697634	0	103754	Markers	event: fixationCrossStart
+208.008059648569	0	104004	Markers	event: fixationCrossEnd
+208.526064777738	0	104263	Markers	event: presentedStimulus; stimulus:HTLB06
+211.546094681389	0	105773	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB06
+216.734146052295	0	108367	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB06; response: 3
+216.768146388959	0	108384	Markers	event: anchorsPresented; scale: Likert-Stress
+217.786156469063	0	108893	Markers	event: fixationCrossStart
+218.286161419999	0	109143	Markers	event: fixationCrossEnd
+218.802166529364	0	109401	Markers	event: presentedStimulus; stimulus:HTHB08
+221.822196433014	0	110911	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB08
+226.394241704368	0	113197	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB08; response: 1
+226.428242041032	0	113214	Markers	event: anchorsPresented; scale: SAM-arousal
+227.444252101333	0	113722	Markers	event: fixationCrossStart
+227.946257072072	0	113973	Markers	event: fixationCrossEnd
+228.462262181438	0	114231	Markers	event: presentedStimulus; stimulus:LTHB19
+231.482292085088	0	115741	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTHB19
+235.004326959477	0	117502	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTHB19; response: 3
+235.036327276337	0	117518	Markers	event: anchorsPresented; scale: Likert-Stress
+236.052337336638	0	118026	Markers	event: fixationCrossStart
+236.554342307377	0	118277	Markers	event: fixationCrossEnd
+237.070347416743	0	118535	Markers	event: presentedStimulus; stimulus:LTHB07
+240.090377320393	0	120045	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTHB07
+242.742403580155	0	121371	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTHB07; response: 4
+242.760403758388	0	121380	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+243.778413838493	0	121889	Markers	event: fixationCrossStart
+244.278418789429	0	122139	Markers	event: fixationCrossEnd
+244.794423898794	0	122397	Markers	event: presentedStimulus; stimulus:HTHB22
+247.814453802444	0	123907	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB22
+251.786493132676	0	125893	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB22; response: 1
+251.802493291106	0	125901	Markers	event: anchorsPresented; scale: Likert-Stress
+252.82050337121	0	126410	Markers	event: fixationCrossStart
+253.320508322146	0	126660	Markers	event: fixationCrossEnd
+253.836513431511	0	126918	Markers	event: presentedStimulus; stimulus:HTHB12
+256.856543335161	0	128428	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB12
+261.894593220787	0	130947	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB12; response: 4
+261.912593399021	0	130956	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+262.928603459322	0	131464	Markers	event: fixationCrossStart
+263.430608430061	0	131715	Markers	event: fixationCrossEnd
+263.946613539426	0	131973	Markers	event: presentedStimulus; stimulus:LTLB11
+266.966643443077	0	133483	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB11
+272.972702913714	0	136486	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB11; response: 4
+272.990703091947	0	136495	Markers	event: anchorsPresented; scale: Likert-Offenheit
+274.006713152248	0	137003	Markers	event: fixationCrossStart
+274.506718103184	0	137253	Markers	event: fixationCrossEnd
+275.024723232353	0	137512	Markers	event: presentedStimulus; stimulus:HTHB06
+278.044753136003	0	139022	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB06
+282.048792783094	0	141024	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB06; response: 1
+282.064792941524	0	141032	Markers	event: anchorsPresented; scale: Likert-Schnheit
+283.082803021629	0	141541	Markers	event: fixationCrossStart
+283.582807972564	0	141791	Markers	event: fixationCrossEnd
+284.100813101734	0	142050	Markers	event: presentedStimulus; stimulus:LTHB07
+287.120843005384	0	143560	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTHB07
+289.27286431421	0	144636	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTHB07; response: 4
+289.28886447264	0	144644	Markers	event: anchorsPresented; scale: SAM-valence
+290.306874552745	0	145153	Markers	event: fixationCrossStart
+290.80687950368	0	145403	Markers	event: fixationCrossEnd
+291.324884632849	0	145662	Markers	event: presentedStimulus; stimulus:HTHB19
+294.342914516696	0	147171	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB19
+297.246943271729	0	148623	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB19; response: 9
+297.262943430159	0	148631	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+298.280953510264	0	149140	Markers	event: fixationCrossStart
+298.780958461199	0	149390	Markers	event: fixationCrossEnd
+299.298963590368	0	149649	Markers	event: presentedStimulus; stimulus:LTLB11
+302.318993494019	0	151159	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB11
+306.071030645838	0	153035	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB11; response: 5
+306.089030824072	0	153044	Markers	event: anchorsPresented; scale: Likert-Stress
+307.105040884373	0	153552	Markers	event: fixationCrossStart
+307.607045855112	0	153803	Markers	event: fixationCrossEnd
+308.123050964478	0	154061	Markers	event: presentedStimulus; stimulus:HTHB15
+311.143080868128	0	155571	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB15
+316.299131922174	0	158149	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB15; response: 2
+316.315132080604	0	158157	Markers	event: anchorsPresented; scale: SAM-dominance
+317.333142160709	0	158666	Markers	event: fixationCrossStart
+317.833147111645	0	158916	Markers	event: fixationCrossEnd
+318.351152240814	0	159175	Markers	event: presentedStimulus; stimulus:HTHB02
+321.371182144464	0	160685	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB02
+324.457212701638	0	162228	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB02; response: 8
+324.473212860068	0	162236	Markers	event: anchorsPresented; scale: SAM-dominance
+325.491222940172	0	162745	Markers	event: fixationCrossStart
+325.991227891108	0	162995	Markers	event: fixationCrossEnd
+326.509233020277	0	163254	Markers	event: presentedStimulus; stimulus:HTLB12
+329.529262923927	0	164764	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB12
+330.997277459874	0	165498	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB12; response: 9
+331.013277618304	0	165506	Markers	event: anchorsPresented; scale: Likert-Schnheit
+332.031287698408	0	166015	Markers	event: fixationCrossStart
+332.531292649344	0	166265	Markers	event: fixationCrossEnd
+333.047297758709	0	166523	Markers	event: presentedStimulus; stimulus:HTHB18
+336.067327662359	0	168033	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB18
+338.203348812756	0	169101	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB18; response: 1
+338.219348971186	0	169109	Markers	event: anchorsPresented; scale: SAM-valence
+339.23735905129	0	169618	Markers	event: fixationCrossStart
+339.737364002226	0	169868	Markers	event: fixationCrossEnd
+340.255369131395	0	170127	Markers	event: presentedStimulus; stimulus:HTLB06
+343.275399035045	0	171637	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB06
+346.911435038248	0	173455	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB06; response: 5
+346.929435216482	0	173464	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+347.945445276783	0	173972	Markers	event: fixationCrossStart
+348.445450227718	0	174222	Markers	event: fixationCrossEnd
+348.963455356887	0	174481	Markers	event: presentedStimulus; stimulus:LTHB07
+351.983485260537	0	175991	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTHB07
+354.269507896214	0	177134	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTHB07; response: 2
+354.285508054644	0	177142	Markers	event: anchorsPresented; scale: SAM-dominance
+355.303518134749	0	177651	Markers	event: fixationCrossStart
+355.803523085685	0	177901	Markers	event: fixationCrossEnd
+356.321528214854	0	178160	Markers	event: presentedStimulus; stimulus:LTLB06
+359.341558118504	0	179670	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB06
+364.41160832099	0	182205	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB06; response: 6
+364.429608499223	0	182214	Markers	event: anchorsPresented; scale: Likert-Schnheit
+365.447618579328	0	182723	Markers	event: fixationCrossStart
+365.947623530263	0	182973	Markers	event: fixationCrossEnd
+366.463628639629	0	183231	Markers	event: presentedStimulus; stimulus:LTLB22
+369.483658543279	0	184741	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB22
+372.787691259061	0	186393	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB22; response: 1
+372.803691417491	0	186401	Markers	event: anchorsPresented; scale: Likert-Stress
+373.821701497595	0	186910	Markers	event: fixationCrossStart
+374.321706448531	0	187160	Markers	event: fixationCrossEnd
+374.8397115777	0	187419	Markers	event: presentedStimulus; stimulus:LTHB10
+377.85974148135	0	188929	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTHB10
+380.161764275457	0	190080	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTHB10; response: 5
+380.177764433887	0	190088	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+381.195774513992	0	190597	Markers	event: fixationCrossStart
+381.695779464927	0	190847	Markers	event: fixationCrossEnd
+382.213784594096	0	191106	Markers	event: presentedStimulus; stimulus:LTHB08
+385.233814497747	0	192616	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTHB08
+387.967841569462	0	193983	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTHB08; response: 4
+387.985841747695	0	193992	Markers	event: anchorsPresented; scale: SAM-dominance
+389.0038518278	0	194501	Markers	event: fixationCrossStart
+389.503856778736	0	194751	Markers	event: fixationCrossEnd
+390.019861888101	0	195009	Markers	event: presentedStimulus; stimulus:HTHB06
+393.039891791751	0	196519	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB06
+396.177922863822	0	198088	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB06; response: 4
+396.193923022252	0	198096	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+397.211933102357	0	198605	Markers	event: fixationCrossStart
+397.711938053292	0	198855	Markers	event: fixationCrossEnd
+398.229943182462	0	199114	Markers	event: presentedStimulus; stimulus:HTLB05
+401.247973066308	0	200623	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB05
+403.849998830976	0	201924	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB05; response: 4
+403.86799900921	0	201933	Markers	event: anchorsPresented; scale: SAM-arousal
+404.886009089315	0	202442	Markers	event: fixationCrossStart
+405.38601404025	0	202692	Markers	event: fixationCrossEnd
+405.902019149615	0	202950	Markers	event: presentedStimulus; stimulus:HTHB06
+408.922049053266	0	204460	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB06
+415.796117118727	0	207897	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB06; response: 4
+415.812117277157	0	207905	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+416.830127357261	0	208414	Markers	event: fixationCrossStart
+417.330132308197	0	208664	Markers	event: fixationCrossEnd
+417.848137437366	0	208923	Markers	event: presentedStimulus; stimulus:HTLB05
+420.868167341016	0	210433	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB05
+426.908227148317	0	213453	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB05; response: 4
+426.924227306747	0	213461	Markers	event: anchorsPresented; scale: SAM-dominance
+427.942237386851	0	213970	Markers	event: fixationCrossStart
+428.442242337787	0	214220	Markers	event: fixationCrossEnd
+428.958247447152	0	214478	Markers	event: presentedStimulus; stimulus:HTLB13
+431.978277350802	0	215988	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB13
+434.998307254453	0	217498	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB13; response: 1
+435.014307412883	0	217506	Markers	event: anchorsPresented; scale: SAM-dominance
+436.032317492987	0	218015	Markers	event: fixationCrossStart
+436.532322443923	0	218265	Markers	event: fixationCrossEnd
+437.050327573092	0	218524	Markers	event: presentedStimulus; stimulus:LTHB16
+440.070357476742	0	220034	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTHB16
+444.04039678717	0	222019	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTHB16; response: 2
+444.074397123833	0	222036	Markers	event: anchorsPresented; scale: SAM-dominance
+445.092407203938	0	222545	Markers	event: fixationCrossStart
+445.592412154874	0	222795	Markers	event: fixationCrossEnd
+446.108417264239	0	223053	Markers	event: presentedStimulus; stimulus:HTHB08
+449.128447167889	0	224563	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB08
+453.066486161457	0	226532	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB08; response: 2
+453.082486319887	0	226540	Markers	event: anchorsPresented; scale: SAM-arousal
+454.100496399992	0	227049	Markers	event: fixationCrossStart
+454.600501350927	0	227299	Markers	event: fixationCrossEnd
+455.118506480096	0	227558	Markers	event: presentedStimulus; stimulus:HTLB06
+458.138536383746	0	229068	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB06
+459.638551236553	0	229818	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB06; response: 8
+459.672551573216	0	229835	Markers	event: anchorsPresented; scale: Likert-Faszination
+460.690561653321	0	230344	Markers	event: fixationCrossStart
+461.190566604257	0	230594	Markers	event: fixationCrossEnd
+461.708571733426	0	230853	Markers	event: presentedStimulus; stimulus:HTHB19
+464.726601617272	0	232362	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB19
+467.864632689343	0	233931	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB19; response: 1
+467.880632847773	0	233939	Markers	event: anchorsPresented; scale: Likert-Schnheit
+468.898642927878	0	234448	Markers	event: fixationCrossStart
+469.398647878813	0	234698	Markers	event: fixationCrossEnd
+469.916653007983	0	234957	Markers	event: presentedStimulus; stimulus:LTLB06
+472.934682891829	0	236466	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB06
+476.822721390303	0	238410	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB06; response: 3
+476.838721548733	0	238418	Markers	event: anchorsPresented; scale: SAM-valence
+477.856731628838	0	238927	Markers	event: fixationCrossStart
+478.356736579773	0	239177	Markers	event: fixationCrossEnd
+478.874741708943	0	239436	Markers	event: presentedStimulus; stimulus:LTHB18
+481.894771612593	0	240946	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTHB18
+486.364815873956	0	243181	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTHB18; response: 4
+486.38281605219	0	243190	Markers	event: anchorsPresented; scale: SAM-arousal
+487.400826132294	0	243699	Markers	event: fixationCrossStart
+487.90083108323	0	243949	Markers	event: fixationCrossEnd
+488.416836192595	0	244207	Markers	event: presentedStimulus; stimulus:LTHB18
+491.436866096245	0	245717	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTHB18
+493.95689104896	0	246977	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTHB18; response: 3
+493.97289120739	0	246985	Markers	event: anchorsPresented; scale: Likert-Faszination
+494.990901287495	0	247494	Markers	event: fixationCrossStart
+495.49090623843	0	247744	Markers	event: fixationCrossEnd
+496.008911367599	0	248003	Markers	event: presentedStimulus; stimulus:LTHB07
+499.026941251446	0	249512	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTHB07
+502.346974125657	0	251172	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTHB07; response: 3
+502.364974303891	0	251181	Markers	event: anchorsPresented; scale: Likert-Schnheit
+503.380984364192	0	251689	Markers	event: fixationCrossStart
+503.880989315128	0	251939	Markers	event: fixationCrossEnd
+504.398994444297	0	252198	Markers	event: presentedStimulus; stimulus:HTLB03
+507.419024347947	0	253708	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB03
+508.887038883893	0	254442	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB03; response: 3
+508.905039062127	0	254451	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+509.921049122428	0	254959	Markers	event: fixationCrossStart
+510.421054073364	0	255209	Markers	event: fixationCrossEnd
+510.939059202533	0	255468	Markers	event: presentedStimulus; stimulus:LTHB10
+513.959089106183	0	256978	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTHB10
+517.263121821965	0	258630	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTHB10; response: 2
+517.279121980395	0	258638	Markers	event: anchorsPresented; scale: Likert-Faszination
+518.297132060499	0	259147	Markers	event: fixationCrossStart
+518.797137011435	0	259397	Markers	event: fixationCrossEnd
+519.315142140604	0	259656	Markers	event: presentedStimulus; stimulus:HTHB15
+522.335172044254	0	261166	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB15
+524.953197967352	0	262475	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB15; response: 2
+524.969198125782	0	262483	Markers	event: anchorsPresented; scale: SAM-arousal
+525.987208205887	0	262992	Markers	event: fixationCrossStart
+526.487213156822	0	263242	Markers	event: fixationCrossEnd
+527.005218285991	0	263501	Markers	event: presentedStimulus; stimulus:LTHB10
+530.025248189642	0	265011	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTHB10
+533.29528056876	0	266646	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTHB10; response: 3
+533.31128072719	0	266654	Markers	event: anchorsPresented; scale: SAM-dominance
+534.329290807294	0	267163	Markers	event: fixationCrossStart
+534.82929575823	0	267413	Markers	event: fixationCrossEnd
+535.347300887399	0	267672	Markers	event: presentedStimulus; stimulus:LTLB12
+538.365330771245	0	269181	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB12
+541.685363645457	0	270841	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB12; response: 4
+541.703363823691	0	270850	Markers	event: anchorsPresented; scale: SAM-arousal
+542.721373903795	0	271359	Markers	event: fixationCrossStart
+543.221378854731	0	271609	Markers	event: fixationCrossEnd
+543.737383964096	0	271867	Markers	event: presentedStimulus; stimulus:HTHB18
+546.757413867746	0	273377	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB18
+548.943435513236	0	274470	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB18; response: 4
+548.959435671666	0	274478	Markers	event: anchorsPresented; scale: SAM-valence
+549.977445751771	0	274987	Markers	event: fixationCrossStart
+550.477450702706	0	275237	Markers	event: fixationCrossEnd
+550.995455831875	0	275496	Markers	event: presentedStimulus; stimulus:LTLB01
+554.015485735526	0	277006	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB01
+557.051515797606	0	278524	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB01; response: 3
+557.08551613427	0	278541	Markers	event: anchorsPresented; scale: SAM-arousal
+558.101526194571	0	279049	Markers	event: fixationCrossStart
+558.601531145506	0	279299	Markers	event: fixationCrossEnd
+559.119536274675	0	279558	Markers	event: presentedStimulus; stimulus:LTLB03
+562.139566178325	0	281068	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB03
+563.741582041123	0	281869	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB03; response: 8
+563.757582199553	0	281877	Markers	event: anchorsPresented; scale: SAM-valence
+564.775592279657	0	282386	Markers	event: fixationCrossStart
+565.275597230593	0	282636	Markers	event: fixationCrossEnd
+565.793602359762	0	282895	Markers	event: presentedStimulus; stimulus:HTLB04
+568.813632263412	0	284405	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB04
+572.967673395784	0	286482	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB04; response: 6
+572.983673554214	0	286490	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+574.001683634319	0	286999	Markers	event: fixationCrossStart
+574.501688585254	0	287249	Markers	event: fixationCrossEnd
+575.019693714423	0	287508	Markers	event: presentedStimulus; stimulus:LTLB06
+578.03772359827	0	289017	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB06
+583.393776632691	0	291695	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB06; response: 3
+583.409776791121	0	291703	Markers	event: anchorsPresented; scale: Likert-Schnheit
+584.427786871225	0	292212	Markers	event: fixationCrossStart
+584.927791822161	0	292462	Markers	event: fixationCrossEnd
+585.44579695133	0	292721	Markers	event: presentedStimulus; stimulus:HTHB22
+588.46582685498	0	294231	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB22
+590.633848322236	0	295315	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB22; response: 1
+590.649848480666	0	295323	Markers	event: anchorsPresented; scale: SAM-dominance
+591.667858560771	0	295832	Markers	event: fixationCrossStart
+592.167863511706	0	296082	Markers	event: fixationCrossEnd
+592.685868640875	0	296341	Markers	event: presentedStimulus; stimulus:HTHB12
+595.705898544526	0	297851	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB12
+597.623917536314	0	298810	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB12; response: 1
+597.641917714548	0	298819	Markers	event: anchorsPresented; scale: Likert-Stress
+598.657927774849	0	299327	Markers	event: fixationCrossStart
+599.159932745588	0	299578	Markers	event: fixationCrossEnd
+599.675937854953	0	299836	Markers	event: presentedStimulus; stimulus:HTLB11
+602.695967758604	0	301346	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB11
+605.331993859936	0	302664	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB11; response: 1
+605.347994018366	0	302672	Markers	event: anchorsPresented; scale: Likert-Schnheit
+606.36600409847	0	303181	Markers	event: fixationCrossStart
+606.866009049406	0	303431	Markers	event: fixationCrossEnd
+607.384014178575	0	303690	Markers	event: presentedStimulus; stimulus:LTLB12
+610.404044082225	0	305200	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB12
+613.474074480969	0	306735	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB12; response: 4
+613.490074639399	0	306743	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+614.508084719503	0	307252	Markers	event: fixationCrossStart
+615.008089670439	0	307502	Markers	event: fixationCrossEnd
+615.526094799608	0	307761	Markers	event: presentedStimulus; stimulus:LTHB18
+618.546124703258	0	309271	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTHB18
+622.866167479341	0	311431	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTHB18; response: 2
+622.882167637771	0	311439	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+623.900177717875	0	311948	Markers	event: fixationCrossStart
+624.400182668811	0	312198	Markers	event: fixationCrossEnd
+624.91818779798	0	312457	Markers	event: presentedStimulus; stimulus:HTHB15
+627.93821770163	0	313967	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB15
+630.174239842214	0	315085	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB15; response: 3
+630.190240000644	0	315093	Markers	event: anchorsPresented; scale: Likert-Schnheit
+631.208250080748	0	315602	Markers	event: fixationCrossStart
+631.708255031684	0	315852	Markers	event: fixationCrossEnd
+632.224260141049	0	316110	Markers	event: presentedStimulus; stimulus:LTHB10
+635.244290044699	0	317620	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTHB10
+637.446311848619	0	318721	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTHB10; response: 1
+637.464312026853	0	318730	Markers	event: anchorsPresented; scale: Likert-Schnheit
+638.480322087154	0	319238	Markers	event: fixationCrossStart
+638.980327038089	0	319488	Markers	event: fixationCrossEnd
+639.498332167258	0	319747	Markers	event: presentedStimulus; stimulus:LTHB08
+642.518362070909	0	321257	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTHB08
+644.186378587229	0	322091	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTHB08; response: 1
+644.204378765463	0	322100	Markers	event: anchorsPresented; scale: SAM-valence
+645.220388825764	0	322608	Markers	event: fixationCrossStart
+645.7203937767	0	322858	Markers	event: fixationCrossEnd
+646.238398905869	0	323117	Markers	event: presentedStimulus; stimulus:HTHB06
+649.258428809519	0	324627	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB06
+653.446470278554	0	326721	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB06; response: 5
+653.462470436984	0	326729	Markers	event: anchorsPresented; scale: Likert-Stress
+654.480480517089	0	327238	Markers	event: fixationCrossStart
+654.980485468025	0	327488	Markers	event: fixationCrossEnd
+655.498490597194	0	327747	Markers	event: presentedStimulus; stimulus:LTLB03
+658.51652048104	0	329256	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB03
+662.670561613412	0	331333	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB03; response: 1
+662.688561791646	0	331342	Markers	event: anchorsPresented; scale: SAM-valence
+663.70657187175	0	331851	Markers	event: fixationCrossStart
+664.206576822686	0	332101	Markers	event: fixationCrossEnd
+664.722581932051	0	332359	Markers	event: presentedStimulus; stimulus:LTHB16
+667.742611835702	0	333869	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTHB16
+671.914653146307	0	335955	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTHB16; response: 7
+671.930653304737	0	335963	Markers	event: anchorsPresented; scale: Likert-Offenheit
+672.948663384842	0	336472	Markers	event: fixationCrossStart
+673.448668335777	0	336722	Markers	event: fixationCrossEnd
+673.966673464946	0	336981	Markers	event: presentedStimulus; stimulus:HTLB13
+676.984703348793	0	338490	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB13
+681.206745154492	0	340601	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB13; response: 5
+681.222745312922	0	340609	Markers	event: anchorsPresented; scale: SAM-dominance
+682.240755393027	0	341118	Markers	event: fixationCrossStart
+682.740760343962	0	341368	Markers	event: fixationCrossEnd
+683.258765473131	0	341627	Markers	event: presentedStimulus; stimulus:HTHB18
+686.278795376782	0	343137	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB18
+688.846820804786	0	344421	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB18; response: 2
+688.862820963216	0	344429	Markers	event: anchorsPresented; scale: SAM-arousal
+689.880831043321	0	344938	Markers	event: fixationCrossStart
+690.380835994256	0	345188	Markers	event: fixationCrossEnd
+690.898841123425	0	345447	Markers	event: presentedStimulus; stimulus:LTLB22
+693.918871027076	0	346957	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB22
+698.006911505924	0	349001	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB22; response: 7
+698.022911664354	0	349009	Markers	event: anchorsPresented; scale: Likert-Faszination
+699.040921744459	0	349518	Markers	event: fixationCrossStart
+699.540926695394	0	349768	Markers	event: fixationCrossEnd
+700.058931824563	0	350027	Markers	event: presentedStimulus; stimulus:HTLB11
+703.078961728214	0	351537	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB11
+705.41298483918	0	352704	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB11; response: 4
+705.430985017414	0	352713	Markers	event: anchorsPresented; scale: Likert-Stress
+706.446995077715	0	353221	Markers	event: fixationCrossStart
+706.94700002865	0	353471	Markers	event: fixationCrossEnd
+707.46500515782	0	353730	Markers	event: presentedStimulus; stimulus:HTHB02
+710.48503506147	0	355240	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB02
+713.055060509278	0	356525	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB02; response: 3
+713.071060667708	0	356533	Markers	event: anchorsPresented; scale: Likert-Offenheit
+714.089070747813	0	357042	Markers	event: fixationCrossStart
+714.589075698748	0	357292	Markers	event: fixationCrossEnd
+715.107080827917	0	357551	Markers	event: presentedStimulus; stimulus:HTHB15
+718.127110731568	0	359061	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB15
+720.227131525497	0	360111	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB15; response: 5
+720.24513170373	0	360120	Markers	event: anchorsPresented; scale: Likert-Stress
+721.263141783835	0	360629	Markers	event: fixationCrossStart
+721.76314673477	0	360879	Markers	event: fixationCrossEnd
+722.279151844136	0	361137	Markers	event: presentedStimulus; stimulus:HTHB22
+725.299181747786	0	362647	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB22
+728.319211651436	0	364157	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB22; response: 4
+728.335211809866	0	364165	Markers	event: anchorsPresented; scale: Likert-Offenheit
+729.353221889971	0	364674	Markers	event: fixationCrossStart
+729.853226840906	0	364924	Markers	event: fixationCrossEnd
+730.371231970076	0	365183	Markers	event: presentedStimulus; stimulus:HTLB06
+733.391261873726	0	366693	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB06
+735.509282845888	0	367752	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB06; response: 4
+735.527283024122	0	367761	Markers	event: anchorsPresented; scale: SAM-valence
+736.543293084423	0	368269	Markers	event: fixationCrossStart
+737.043298035359	0	368519	Markers	event: fixationCrossEnd
+737.561303164528	0	368778	Markers	event: presentedStimulus; stimulus:LTHB07
+740.581333068178	0	370288	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTHB07
+742.165348752742	0	371080	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTHB07; response: 6
+742.183348930975	0	371089	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+743.20135901108	0	371598	Markers	event: fixationCrossStart
+743.701363962015	0	371848	Markers	event: fixationCrossEnd
+744.217369071381	0	372106	Markers	event: presentedStimulus; stimulus:HTHB08
+747.237398975031	0	373616	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB08
+750.875434998038	0	375435	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB08; response: 2
+750.891435156467	0	375443	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+751.909445236572	0	375952	Markers	event: fixationCrossStart
+752.409450187508	0	376202	Markers	event: fixationCrossEnd
+752.927455316677	0	376461	Markers	event: presentedStimulus; stimulus:LTLB03
+755.945485200523	0	377970	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB03
+759.533520728436	0	379764	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB03; response: 4
+759.565521045296	0	379780	Markers	event: anchorsPresented; scale: Likert-Stress
+760.583531125401	0	380289	Markers	event: fixationCrossStart
+761.083536076336	0	380539	Markers	event: fixationCrossEnd
+761.601541205505	0	380798	Markers	event: presentedStimulus; stimulus:LTLB22
+764.621571109156	0	382308	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB22
+767.607600676142	0	383801	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB22; response: 3
+767.623600834572	0	383809	Markers	event: anchorsPresented; scale: Likert-Schnheit
+768.641610914677	0	384318	Markers	event: fixationCrossStart
+769.141615865612	0	384568	Markers	event: fixationCrossEnd
+769.659620994781	0	384827	Markers	event: presentedStimulus; stimulus:LTLB01
+772.679650898432	0	386337	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB01
+775.299676841334	0	387647	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB01; response: 4
+775.315676999764	0	387655	Markers	event: anchorsPresented; scale: SAM-arousal
+776.333687079868	0	388164	Markers	event: fixationCrossStart
+776.833692030804	0	388414	Markers	event: fixationCrossEnd
+777.349697140169	0	388672	Markers	event: presentedStimulus; stimulus:HTLB13
+780.369727043819	0	390182	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB13
+783.789760908218	0	391892	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB13; response: 4
+783.807761086452	0	391901	Markers	event: anchorsPresented; scale: Likert-Schnheit
+784.825771166556	0	392410	Markers	event: fixationCrossStart
+785.325776117492	0	392660	Markers	event: fixationCrossEnd
+785.841781226857	0	392918	Markers	event: presentedStimulus; stimulus:LTLB07
+788.861811130507	0	394428	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB07
+792.649848638795	0	396322	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB07; response: 4
+792.665848797225	0	396330	Markers	event: anchorsPresented; scale: Likert-Stress
+793.683858877329	0	396839	Markers	event: fixationCrossStart
+794.183863828265	0	397089	Markers	event: fixationCrossEnd
+794.701868957434	0	397348	Markers	event: presentedStimulus; stimulus:HTLB04
+797.721898861084	0	398858	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB04
+800.889930230211	0	400442	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB04; response: 1
+800.923930566875	0	400459	Markers	event: anchorsPresented; scale: SAM-dominance
+801.94194064698	0	400968	Markers	event: fixationCrossStart
+802.441945597915	0	401218	Markers	event: fixationCrossEnd
+802.959950727084	0	401477	Markers	event: presentedStimulus; stimulus:LTHB07
+805.977980610931	0	402986	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTHB07
+807.663997305485	0	403829	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTHB07; response: 5
+807.679997463915	0	403837	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+808.69800754402	0	404346	Markers	event: fixationCrossStart
+809.198012494955	0	404596	Markers	event: fixationCrossEnd
+809.716017624124	0	404855	Markers	event: presentedStimulus; stimulus:LTHB19
+812.736047527775	0	406365	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTHB19
+817.508094779503	0	408751	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTHB19; response: 2
+817.540095096363	0	408767	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+818.560105196271	0	409277	Markers	event: fixationCrossStart
+819.060110147207	0	409527	Markers	event: fixationCrossEnd
+819.576115256572	0	409785	Markers	event: presentedStimulus; stimulus:HTHB02
+822.596145160222	0	411295	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB02
+826.114179995004	0	413054	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB02; response: 1
+826.132180173238	0	413063	Markers	event: anchorsPresented; scale: SAM-valence
+827.150190253342	0	413572	Markers	event: fixationCrossStart
+827.650195204278	0	413822	Markers	event: fixationCrossEnd
+828.166200313643	0	414080	Markers	event: presentedStimulus; stimulus:LTHB19
+831.186230217294	0	415590	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTHB19
+836.042278300779	0	418018	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTHB19; response: 7
+836.074278617639	0	418034	Markers	event: anchorsPresented; scale: SAM-dominance
+837.092288697743	0	418543	Markers	event: fixationCrossStart
+837.592293648679	0	418793	Markers	event: fixationCrossEnd
+838.110298777848	0	419052	Markers	event: presentedStimulus; stimulus:HTLB06
+841.130328681498	0	420562	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB06
+843.014347336623	0	421504	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB06; response: 5
+843.032347514857	0	421513	Markers	event: anchorsPresented; scale: SAM-dominance
+844.050357594962	0	422022	Markers	event: fixationCrossStart
+844.550362545897	0	422272	Markers	event: fixationCrossEnd
+845.066367655262	0	422530	Markers	event: presentedStimulus; stimulus:HTLB05
+848.086397558913	0	424040	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB05
+849.904415560514	0	424949	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB05; response: 5
+849.938415897178	0	424966	Markers	event: anchorsPresented; scale: Likert-Offenheit
+850.956425977282	0	425475	Markers	event: fixationCrossStart
+851.456430928218	0	425725	Markers	event: fixationCrossEnd
+851.974436057387	0	425984	Markers	event: presentedStimulus; stimulus:HTHB19
+854.994465961037	0	427494	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB19
+858.414499825436	0	429204	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB19; response: 4
+858.430499983866	0	429212	Markers	event: anchorsPresented; scale: Likert-Offenheit
+859.448510063971	0	429721	Markers	event: fixationCrossStart
+859.948515014906	0	429971	Markers	event: fixationCrossEnd
+860.464520124271	0	430229	Markers	event: presentedStimulus; stimulus:LTLB01
+863.484550027922	0	431739	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB01
+865.604571019888	0	432799	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB01; response: 2
+865.620571178318	0	432807	Markers	event: anchorsPresented; scale: SAM-valence
+866.638581258423	0	433316	Markers	event: fixationCrossStart
+867.138586209358	0	433566	Markers	event: fixationCrossEnd
+867.656591338527	0	433825	Markers	event: presentedStimulus; stimulus:HTHB08
+870.676621242177	0	435335	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB08
+873.828652452875	0	436911	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB08; response: 8
+873.844652611305	0	436919	Markers	event: anchorsPresented; scale: SAM-arousal
+874.862662691409	0	437428	Markers	event: fixationCrossStart
+875.362667642345	0	437678	Markers	event: fixationCrossEnd
+875.880672771514	0	437937	Markers	event: presentedStimulus; stimulus:LTLB12
+878.902702694968	0	439448	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB12
+882.570739015031	0	441282	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB12; response: 8
+882.586739173461	0	441290	Markers	event: anchorsPresented; scale: SAM-arousal
+883.604749253565	0	441799	Markers	event: fixationCrossStart
+884.104754204501	0	442049	Markers	event: fixationCrossEnd
+884.62275933367	0	442308	Markers	event: presentedStimulus; stimulus:LTLB01
+887.64278923732	0	443818	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB01
+891.37882623071	0	445686	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB01; response: 8
+891.39482638914	0	445694	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+892.412836469245	0	446203	Markers	event: fixationCrossStart
+892.91284142018	0	446453	Markers	event: fixationCrossEnd
+893.430846549349	0	446712	Markers	event: presentedStimulus; stimulus:HTLB03
+896.450876452999	0	448222	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB03
+900.120912792866	0	450057	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB03; response: 4
+900.136912951296	0	450065	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+901.1549230314	0	450574	Markers	event: fixationCrossStart
+901.654927982336	0	450824	Markers	event: fixationCrossEnd
+902.172933111505	0	451083	Markers	event: presentedStimulus; stimulus:LTHB18
+905.192963015155	0	452593	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTHB18
+909.079001493826	0	454536	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTHB18; response: 2
+909.097001672059	0	454545	Markers	event: anchorsPresented; scale: Likert-Faszination
+910.115011752164	0	455054	Markers	event: fixationCrossStart
+910.6150167031	0	455304	Markers	event: fixationCrossEnd
+911.131021812465	0	455562	Markers	event: presentedStimulus; stimulus:HTHB02
+914.151051716115	0	457072	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB02
+916.103071044567	0	458048	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB02; response: 1
+916.121071222801	0	458057	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+917.137081283102	0	458565	Markers	event: fixationCrossStart
+917.639086253841	0	458816	Markers	event: fixationCrossEnd
+918.155091363207	0	459074	Markers	event: presentedStimulus; stimulus:LTLB22
+921.175121266857	0	460584	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB22
+922.477134159093	0	461235	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB22; response: 3
+922.493134317523	0	461243	Markers	event: anchorsPresented; scale: Likert-Stress
+923.511144397627	0	461752	Markers	event: fixationCrossStart
+924.011149348563	0	462002	Markers	event: fixationCrossEnd
+924.529154477732	0	462261	Markers	event: presentedStimulus; stimulus:LTLB01
+927.547184361579	0	463770	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB01
+930.635214938556	0	465314	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB01; response: 2
+930.651215096986	0	465322	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+931.669225177091	0	465831	Markers	event: fixationCrossStart
+932.169230128026	0	466081	Markers	event: fixationCrossEnd
+932.687235257195	0	466340	Markers	event: presentedStimulus; stimulus:HTHB18
+935.705265141042	0	467849	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB18
+937.807285954774	0	468900	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB18; response: 1
+937.825286133008	0	468909	Markers	event: anchorsPresented; scale: SAM-arousal
+938.843296213113	0	469418	Markers	event: fixationCrossStart
+939.343301164048	0	469668	Markers	event: fixationCrossEnd
+939.859306273414	0	469926	Markers	event: presentedStimulus; stimulus:HTLB03
+942.879336177064	0	471436	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB03
+946.417371209883	0	473205	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB03; response: 7
+946.433371368313	0	473213	Markers	event: anchorsPresented; scale: SAM-arousal
+947.451381448418	0	473722	Markers	event: fixationCrossStart
+947.951386399353	0	473972	Markers	event: fixationCrossEnd
+948.469391528523	0	474231	Markers	event: presentedStimulus; stimulus:LTLB11
+951.487421412369	0	475740	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB11
+953.539441731008	0	476766	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB11; response: 9
+953.557441909242	0	476775	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+954.575451989347	0	477284	Markers	event: fixationCrossStart
+955.075456940282	0	477534	Markers	event: fixationCrossEnd
+955.591462049647	0	477792	Markers	event: presentedStimulus; stimulus:HTLB12
+958.611491953298	0	479302	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB12
+960.679512430367	0	480336	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB12; response: 1
+960.697512608601	0	480345	Markers	event: anchorsPresented; scale: Likert-Offenheit
+961.715522688705	0	480854	Markers	event: fixationCrossStart
+962.215527639641	0	481104	Markers	event: fixationCrossEnd
+962.731532749006	0	481362	Markers	event: presentedStimulus; stimulus:HTLB11
+965.751562652656	0	482872	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB11
+970.423608914197	0	485208	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB11; response: 2
+970.439609072627	0	485216	Markers	event: anchorsPresented; scale: Likert-Stress
+971.457619152732	0	485725	Markers	event: fixationCrossStart
+971.957624103668	0	485975	Markers	event: fixationCrossEnd
+972.475629232837	0	486234	Markers	event: presentedStimulus; stimulus:LTLB11
+975.495659136487	0	487744	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB11
+978.397687871716	0	489195	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB11; response: 1
+978.413688030146	0	489203	Markers	event: anchorsPresented; scale: SAM-dominance
+979.431698110251	0	489712	Markers	event: fixationCrossStart
+979.931703061186	0	489962	Markers	event: fixationCrossEnd
+980.449708190356	0	490221	Markers	event: presentedStimulus; stimulus:HTHB19
+983.469738094006	0	491731	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB19
+985.837761541636	0	492915	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB19; response: 3
+985.85576171987	0	492924	Markers	event: anchorsPresented; scale: SAM-valence
+986.873771799975	0	493433	Markers	event: fixationCrossStart
+987.37377675091	0	493683	Markers	event: fixationCrossEnd
+987.889781860275	0	493941	Markers	event: presentedStimulus; stimulus:HTLB11
+990.909811763926	0	495451	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB11
+994.297845311464	0	497145	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB11; response: 2
+994.313845469894	0	497153	Markers	event: anchorsPresented; scale: SAM-valence
+995.331855549999	0	497662	Markers	event: fixationCrossStart
+995.831860500935	0	497912	Markers	event: fixationCrossEnd
+996.3478656103	0	498170	Markers	event: presentedStimulus; stimulus:HTLB05
+999.36789551395	0	499680	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB05
+1003.38993533928	0	501691	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB05; response: 7
+1003.40593549771	0	501699	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1004.42394557781	0	502208	Markers	event: fixationCrossStart
+1004.92395052875	0	502458	Markers	event: fixationCrossEnd
+1005.44195565791	0	502717	Markers	event: presentedStimulus; stimulus:HTLB11
+1008.45998554176	0	504226	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB11
+1012.19802255495	0	506095	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB11; response: 4
+1012.21402271338	0	506103	Markers	event: anchorsPresented; scale: Likert-Faszination
+1013.23203279349	0	506612	Markers	event: fixationCrossStart
+1013.73203774442	0	506862	Markers	event: fixationCrossEnd
+1014.25004287359	0	507121	Markers	event: presentedStimulus; stimulus:HTHB06
+1017.27007277724	0	508631	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB06
+1018.97008961042	0	509481	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB06; response: 1
+1018.98808978866	0	509490	Markers	event: anchorsPresented; scale: SAM-valence
+1020.00609986876	0	509999	Markers	event: fixationCrossStart
+1020.5061048197	0	510249	Markers	event: fixationCrossEnd
+1021.02210992906	0	510507	Markers	event: presentedStimulus; stimulus:HTLB13
+1024.04213983271	0	512017	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB13
+1027.13017040969	0	513561	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB13; response: 9
+1027.14617056812	0	513569	Markers	event: anchorsPresented; scale: Likert-Faszination
+1028.16418064823	0	514078	Markers	event: fixationCrossStart
+1028.66418559916	0	514328	Markers	event: fixationCrossEnd
+1029.18019070853	0	514586	Markers	event: presentedStimulus; stimulus:HTLB05
+1032.20022061218	0	516096	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB05
+1034.33624176257	0	517164	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB05; response: 1
+1034.352241921	0	517172	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1035.37025200111	0	517681	Markers	event: fixationCrossStart
+1035.87025695204	0	517931	Markers	event: fixationCrossEnd
+1036.38826208121	0	518190	Markers	event: presentedStimulus; stimulus:HTLB03
+1039.40829198486	0	519700	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB03
+1045.23034963356	0	522611	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB03; response: 3
+1045.24634979199	0	522619	Markers	event: anchorsPresented; scale: Likert-Stress
+1046.26435987209	0	523128	Markers	event: fixationCrossStart
+1046.76436482303	0	523378	Markers	event: fixationCrossEnd
+1047.2823699522	0	523637	Markers	event: presentedStimulus; stimulus:HTLB05
+1050.30239985585	0	525147	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB05
+1052.68642346191	0	526339	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB05; response: 1
+1052.70442364014	0	526348	Markers	event: anchorsPresented; scale: SAM-arousal
+1053.72243372024	0	526857	Markers	event: fixationCrossStart
+1054.22243867118	0	527107	Markers	event: fixationCrossEnd
+1054.74044380035	0	527366	Markers	event: presentedStimulus; stimulus:HTLB11
+1057.75847368419	0	528875	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB11
+1060.24449830025	0	530118	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB11; response: 9
+1060.26049845868	0	530126	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1061.27850853878	0	530635	Markers	event: fixationCrossStart
+1061.77851348972	0	530885	Markers	event: fixationCrossEnd
+1062.29651861889	0	531144	Markers	event: presentedStimulus; stimulus:LTLB03
+1065.31654852254	0	532654	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB03
+1068.67058173341	0	534331	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB03; response: 4
+1068.68658189184	0	534339	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1069.70459197195	0	534848	Markers	event: fixationCrossStart
+1070.20459692288	0	535098	Markers	event: fixationCrossEnd
+1070.72260205205	0	535357	Markers	event: presentedStimulus; stimulus:LTHB07
+1073.7406319359	0	536866	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTHB07
+1076.99466415658	0	538493	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTHB07; response: 4
+1077.01266433482	0	538502	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1078.02867439512	0	539010	Markers	event: fixationCrossStart
+1078.52867934605	0	539260	Markers	event: fixationCrossEnd
+1079.04668447522	0	539519	Markers	event: presentedStimulus; stimulus:LTLB11
+1082.06671437887	0	541029	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB11
+1085.0187436092	0	542505	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB11; response: 5
+1085.03474376763	0	542513	Markers	event: anchorsPresented; scale: SAM-dominance
+1086.05275384773	0	543022	Markers	event: fixationCrossStart
+1086.55275879867	0	543272	Markers	event: fixationCrossEnd
+1087.07076392784	0	543531	Markers	event: presentedStimulus; stimulus:LTLB01
+1090.09079383149	0	545041	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB01
+1092.99282256672	0	546492	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB01; response: 7
+1093.01082274495	0	546501	Markers	event: anchorsPresented; scale: SAM-arousal
+1094.02883282505	0	547010	Markers	event: fixationCrossStart
+1094.52883777599	0	547260	Markers	event: fixationCrossEnd
+1095.04484288536	0	547518	Markers	event: presentedStimulus; stimulus:HTHB12
+1098.06487278901	0	549028	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB12
+1101.05090235599	0	550521	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB12; response: 5
+1101.06890253423	0	550530	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1102.08491259453	0	551038	Markers	event: fixationCrossStart
+1102.58691756527	0	551289	Markers	event: fixationCrossEnd
+1103.10292267463	0	551547	Markers	event: presentedStimulus; stimulus:HTHB15
+1106.12495259809	0	553058	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB15
+1108.52497636258	0	554258	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB15; response: 1
+1108.54297654081	0	554267	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1109.55898660111	0	554775	Markers	event: fixationCrossStart
+1110.05899155205	0	555025	Markers	event: fixationCrossEnd
+1110.57699668121	0	555284	Markers	event: presentedStimulus; stimulus:LTHB07
+1113.59702658487	0	556794	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTHB07
+1115.93304971564	0	557962	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTHB07; response: 1
+1115.94904987407	0	557970	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1116.96705995417	0	558479	Markers	event: fixationCrossStart
+1117.46706490511	0	558729	Markers	event: fixationCrossEnd
+1117.98507003427	0	558988	Markers	event: presentedStimulus; stimulus:HTLB05
+1121.00509993793	0	560498	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB05
+1125.02513974345	0	562508	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB05; response: 2
+1125.04113990188	0	562516	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1126.05914998198	0	563025	Markers	event: fixationCrossStart
+1126.55915493292	0	563275	Markers	event: fixationCrossEnd
+1127.07716006209	0	563534	Markers	event: presentedStimulus; stimulus:HTLB04
+1130.09718996574	0	565044	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB04
+1133.24922117643	0	566620	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB04; response: 2
+1133.26722135467	0	566629	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1134.28323141497	0	567137	Markers	event: fixationCrossStart
+1134.7832363659	0	567387	Markers	event: fixationCrossEnd
+1135.30124149507	0	567646	Markers	event: presentedStimulus; stimulus:HTHB12
+1138.32127139872	0	569156	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB12
+1139.98928791504	0	569990	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB12; response: 1
+1140.00728809328	0	569999	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1141.02329815358	0	570507	Markers	event: fixationCrossStart
+1141.52330310451	0	570757	Markers	event: fixationCrossEnd
+1142.04130823368	0	571016	Markers	event: presentedStimulus; stimulus:HTHB02
+1145.06133813733	0	572526	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB02
+1150.49939198371	0	575245	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB02; response: 3
+1150.51739216194	0	575254	Markers	event: anchorsPresented; scale: Likert-Faszination
+1151.53340222224	0	575762	Markers	event: fixationCrossStart
+1152.03540719298	0	576013	Markers	event: fixationCrossEnd
+1152.55141230235	0	576271	Markers	event: presentedStimulus; stimulus:HTLB06
+1155.571442206	0	577781	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB06
+1158.4074702877	0	579199	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB06; response: 1
+1158.42347044613	0	579207	Markers	event: anchorsPresented; scale: SAM-valence
+1159.44148052624	0	579716	Markers	event: fixationCrossStart
+1159.94148547717	0	579966	Markers	event: fixationCrossEnd
+1160.45949060634	0	580225	Markers	event: presentedStimulus; stimulus:LTLB06
+1163.47952050999	0	581735	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB06
+1165.18153736298	0	582586	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB06; response: 5
+1165.19753752141	0	582594	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1166.21554760151	0	583103	Markers	event: fixationCrossStart
+1166.71555255245	0	583353	Markers	event: fixationCrossEnd
+1167.23355768162	0	583612	Markers	event: presentedStimulus; stimulus:LTHB19
+1170.25358758527	0	585122	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTHB19
+1173.65562127143	0	586823	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTHB19; response: 1
+1173.67362144966	0	586832	Markers	event: anchorsPresented; scale: SAM-dominance
+1174.68963150997	0	587340	Markers	event: fixationCrossStart
+1175.1896364609	0	587590	Markers	event: fixationCrossEnd
+1175.70764159007	0	587849	Markers	event: presentedStimulus; stimulus:LTHB19
+1178.72767149372	0	589359	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTHB19
+1181.37969775348	0	590685	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTHB19; response: 4
+1181.39769793172	0	590694	Markers	event: anchorsPresented; scale: SAM-dominance
+1182.41370799202	0	591202	Markers	event: fixationCrossStart
+1182.91371294295	0	591452	Markers	event: fixationCrossEnd
+1183.43171807212	0	591711	Markers	event: presentedStimulus; stimulus:LTLB11
+1186.45174797577	0	593221	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB11
+1188.41976746265	0	594205	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB11; response: 9
+1188.43776764089	0	594214	Markers	event: anchorsPresented; scale: Likert-Faszination
+1189.45577772099	0	594723	Markers	event: fixationCrossStart
+1189.95578267193	0	594973	Markers	event: fixationCrossEnd
+1190.47178778129	0	595231	Markers	event: presentedStimulus; stimulus:HTLB12
+1193.49181768494	0	596741	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB12
+1196.01184263766	0	598001	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB12; response: 2
+1196.04384295452	0	598017	Markers	event: anchorsPresented; scale: SAM-dominance
+1197.06185303462	0	598526	Markers	event: fixationCrossStart
+1197.56185798556	0	598776	Markers	event: fixationCrossEnd
+1198.07986311473	0	599035	Markers	event: presentedStimulus; stimulus:LTLB07
+1201.09989301838	0	600545	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB07
+1203.81791993166	0	601904	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB07; response: 9
+1203.8359201099	0	601913	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1204.85393019	0	602422	Markers	event: fixationCrossStart
+1205.35393514094	0	602672	Markers	event: fixationCrossEnd
+1205.87194027011	0	602931	Markers	event: presentedStimulus; stimulus:HTLB13
+1208.89197017376	0	604441	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB13
+1212.52800617696	0	606259	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB13; response: 1
+1212.54400633539	0	606267	Markers	event: anchorsPresented; scale: SAM-arousal
+1213.56201641549	0	606776	Markers	event: fixationCrossStart
+1214.06202136643	0	607026	Markers	event: fixationCrossEnd
+1214.5800264956	0	607285	Markers	event: presentedStimulus; stimulus:HTLB12
+1217.60005639925	0	608795	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB12
+1219.60207622279	0	609796	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB12; response: 7
+1219.61807638122	0	609804	Markers	event: anchorsPresented; scale: Likert-Stress
+1220.63608646133	0	610313	Markers	event: fixationCrossStart
+1221.13609141226	0	610563	Markers	event: fixationCrossEnd
+1221.65209652163	0	610821	Markers	event: presentedStimulus; stimulus:HTHB19
+1224.67412644508	0	612332	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB19
+1227.00814955605	0	613499	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB19; response: 1
+1227.02414971448	0	613507	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1228.04215979458	0	614016	Markers	event: fixationCrossStart
+1228.54216474552	0	614266	Markers	event: fixationCrossEnd
+1229.06016987469	0	614525	Markers	event: presentedStimulus; stimulus:LTHB18
+1232.08019977834	0	616035	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTHB18
+1233.43221316567	0	616711	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTHB18; response: 3
+1233.4482133241	0	616719	Markers	event: anchorsPresented; scale: SAM-valence
+1234.4662234042	0	617228	Markers	event: fixationCrossStart
+1234.96622835514	0	617478	Markers	event: fixationCrossEnd
+1235.48423348431	0	617737	Markers	event: presentedStimulus; stimulus:HTLB12
+1238.50226336815	0	619246	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB12
+1241.33829144986	0	620664	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB12; response: 7
+1241.37229178652	0	620681	Markers	event: anchorsPresented; scale: Likert-Faszination
+1242.39030186663	0	621190	Markers	event: fixationCrossStart
+1242.89030681756	0	621440	Markers	event: fixationCrossEnd
+1243.40831194673	0	621699	Markers	event: presentedStimulus; stimulus:LTHB10
+1246.42834185038	0	623209	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTHB10
+1249.04636777348	0	624518	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTHB10; response: 2
+1249.06236793191	0	624526	Markers	event: anchorsPresented; scale: SAM-dominance
+1250.08037801202	0	625035	Markers	event: fixationCrossStart
+1250.58038296295	0	625285	Markers	event: fixationCrossEnd
+1251.09838809212	0	625544	Markers	event: presentedStimulus; stimulus:LTHB08
+1254.11841799577	0	627054	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTHB08
+1256.57044227516	0	628280	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTHB08; response: 3
+1256.58644243359	0	628288	Markers	event: anchorsPresented; scale: SAM-arousal
+1257.60445251369	0	628797	Markers	event: fixationCrossStart
+1258.10445746463	0	629047	Markers	event: fixationCrossEnd
+1258.6224625938	0	629306	Markers	event: presentedStimulus; stimulus:HTHB19
+1261.64249249745	0	630816	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB19
+1263.67851265766	0	631834	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB19; response: 7
+1263.69651283589	0	631843	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1264.71252289619	0	632351	Markers	event: fixationCrossStart
+1265.21252784713	0	632601	Markers	event: fixationCrossEnd
+1265.7305329763	0	632860	Markers	event: presentedStimulus; stimulus:LTHB16
+1268.75056287995	0	634370	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTHB16
+1271.28458797129	0	635637	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTHB16; response: 3
+1271.30258814952	0	635646	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1272.31859820982	0	636154	Markers	event: fixationCrossStart
+1272.82060318056	0	636405	Markers	event: fixationCrossEnd
+1273.33660828993	0	636663	Markers	event: presentedStimulus; stimulus:HTLB04
+1276.35663819358	0	638173	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB04
+1277.59065041249	0	638790	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB04; response: 3
+1277.60865059072	0	638799	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1278.62466065102	0	639307	Markers	event: fixationCrossStart
+1279.12666562176	0	639558	Markers	event: fixationCrossEnd
+1279.64267073113	0	639816	Markers	event: presentedStimulus; stimulus:LTLB07
+1282.66270063478	0	641326	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB07
+1285.43272806296	0	642711	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB07; response: 4
+1285.44872822139	0	642719	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1286.46673830149	0	643228	Markers	event: fixationCrossStart
+1286.96674325243	0	643478	Markers	event: fixationCrossEnd
+1287.4847483816	0	643737	Markers	event: presentedStimulus; stimulus:HTLB13
+1290.50477828525	0	645247	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB13
+1292.48879793056	0	646239	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB13; response: 2
+1292.50679810879	0	646248	Markers	event: anchorsPresented; scale: Likert-Faszination
+1293.52280816909	0	646756	Markers	event: fixationCrossStart
+1294.02281312003	0	647006	Markers	event: fixationCrossEnd
+1294.5408182492	0	647265	Markers	event: presentedStimulus; stimulus:LTHB08
+1297.56084815285	0	648775	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTHB08
+1300.74687970021	0	650368	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTHB08; response: 2
+1300.76487987844	0	650377	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1301.78088993874	0	650885	Markers	event: fixationCrossStart
+1302.28089488968	0	651135	Markers	event: fixationCrossEnd
+1302.79890001885	0	651394	Markers	event: presentedStimulus; stimulus:LTLB12
+1305.8189299225	0	652904	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB12
+1309.93897071821	0	654964	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB12; response: 3
+1309.95697089644	0	654973	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1310.97498097655	0	655482	Markers	event: fixationCrossStart
+1311.47498592748	0	655732	Markers	event: fixationCrossEnd
+1311.99099103685	0	655990	Markers	event: presentedStimulus; stimulus:HTHB06
+1315.0110209405	0	657500	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB06
+1317.61304670517	0	658801	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB06; response: 2
+1317.6310468834	0	658810	Markers	event: anchorsPresented; scale: Likert-Stress
+1318.6490569635	0	659319	Markers	event: fixationCrossStart
+1319.14906191444	0	659569	Markers	event: fixationCrossEnd
+1319.6650670238	0	659827	Markers	event: presentedStimulus; stimulus:LTLB06
+1322.68509692746	0	661337	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB06
+1326.42313394065	0	663206	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB06; response: 4
+1326.43913409908	0	663214	Markers	event: anchorsPresented; scale: SAM-valence
+1327.45714417918	0	663723	Markers	event: fixationCrossStart
+1327.95714913012	0	663973	Markers	event: fixationCrossEnd
+1328.47515425929	0	664232	Markers	event: presentedStimulus; stimulus:HTHB18
+1331.49518416294	0	665742	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB18
+1334.51321404678	0	667251	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB18; response: 8
+1334.53121422502	0	667260	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1335.54722428532	0	667768	Markers	event: fixationCrossStart
+1336.04922925606	0	668019	Markers	event: fixationCrossEnd
+1336.56523436542	0	668277	Markers	event: presentedStimulus; stimulus:HTHB12
+1339.58526426907	0	669787	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB12
+1342.88929698486	0	671439	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB12; response: 2
+1342.90529714329	0	671447	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1343.92330722339	0	671956	Markers	event: fixationCrossStart
+1344.42331217433	0	672206	Markers	event: fixationCrossEnd
+1344.94131730349	0	672465	Markers	event: presentedStimulus; stimulus:HTHB08
+1347.96134720715	0	673975	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB08
+1349.6453638819	0	674817	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB08; response: 1
+1349.66336406013	0	674826	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1350.67937412043	0	675334	Markers	event: fixationCrossStart
+1351.17937907137	0	675584	Markers	event: fixationCrossEnd
+1351.69738420053	0	675843	Markers	event: presentedStimulus; stimulus:LTHB16
+1354.71741410419	0	677353	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTHB16
+1356.98543656163	0	678487	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTHB16; response: 1
+1357.00343673986	0	678496	Markers	event: anchorsPresented; scale: Likert-Faszination
+1358.01944680016	0	679004	Markers	event: fixationCrossStart
+1358.5214517709	0	679255	Markers	event: fixationCrossEnd
+1359.03745688027	0	679513	Markers	event: presentedStimulus; stimulus:LTLB01
+1362.05748678392	0	681023	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB01
+1364.70951304368	0	682349	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB01; response: 4
+1364.74351338034	0	682366	Markers	event: anchorsPresented; scale: SAM-valence
+1365.76152346045	0	682875	Markers	event: fixationCrossStart
+1366.26152841138	0	683125	Markers	event: fixationCrossEnd
+1366.77953354055	0	683384	Markers	event: presentedStimulus; stimulus:LTLB22
+1369.7995634442	0	684894	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB22
+1372.66759184277	0	686328	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB22; response: 7
+1372.6835920012	0	686336	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1373.7016020813	0	686845	Markers	event: fixationCrossStart
+1374.20160703224	0	687095	Markers	event: fixationCrossEnd
+1374.71961216141	0	687354	Markers	event: presentedStimulus; stimulus:LTHB08
+1377.73964206506	0	688864	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTHB08
+1384.44570846701	0	692217	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTHB08; response: 2
+1384.46170862543	0	692225	Markers	event: anchorsPresented; scale: SAM-valence
+1385.47971870554	0	692734	Markers	event: fixationCrossStart
+1385.97972365648	0	692984	Markers	event: fixationCrossEnd
+1386.49772878564	0	693243	Markers	event: presentedStimulus; stimulus:HTHB02
+1389.51775868929	0	694753	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB02
+1391.8197814834	0	695904	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB02; response: 7
+1391.83778166164	0	695913	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1392.85379172194	0	696421	Markers	event: fixationCrossStart
+1393.35379667287	0	696671	Markers	event: fixationCrossEnd
+1393.87180180204	0	696930	Markers	event: presentedStimulus; stimulus:LTHB19
+1396.89183170569	0	698440	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTHB19
+1397.92584194423	0	698957	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTHB19; response: 3
+1397.94184210266	0	698965	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1398.95985218276	0	699474	Markers	event: fixationCrossStart
+1399.4598571337	0	699724	Markers	event: fixationCrossEnd
+1399.97786226286	0	699983	Markers	event: presentedStimulus; stimulus:HTHB18
+1402.99789216651	0	701493	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB18
+1406.46792652601	0	703228	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB18; response: 2
+1406.48392668444	0	703236	Markers	event: anchorsPresented; scale: SAM-arousal
+1407.50193676454	0	703745	Markers	event: fixationCrossStart
+1408.00194171548	0	703995	Markers	event: fixationCrossEnd
+1408.51994684465	0	704254	Markers	event: presentedStimulus; stimulus:HTHB22
+1411.5399767483	0	705764	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB22
+1415.79401887086	0	707891	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB22; response: 3
+1415.81001902929	0	707899	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1416.82802910939	0	708408	Markers	event: fixationCrossStart
+1417.32803406033	0	708658	Markers	event: fixationCrossEnd
+1417.84603918949	0	708917	Markers	event: presentedStimulus; stimulus:LTHB10
+1420.86606909315	0	710427	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTHB10
+1423.28409303587	0	711636	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTHB10; response: 1
+1423.3000931943	0	711644	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1424.3181032744	0	712153	Markers	event: fixationCrossStart
+1424.82010824514	0	712404	Markers	event: fixationCrossEnd
+1425.33611335451	0	712662	Markers	event: presentedStimulus; stimulus:HTHB06
+1428.35614325816	0	714172	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB06
+1429.17415135789	0	714581	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB06; response: 3
+1429.19015151632	0	714589	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1430.20816159642	0	715098	Markers	event: fixationCrossStart
+1430.70816654736	0	715348	Markers	event: fixationCrossEnd
+1431.22617167653	0	715607	Markers	event: presentedStimulus; stimulus:LTLB03
+1434.24620158018	0	717117	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB03
+1438.68224550488	0	719335	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB03; response: 4
+1438.70024568311	0	719344	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1439.71625574341	0	719852	Markers	event: fixationCrossStart
+1440.21626069435	0	720102	Markers	event: fixationCrossEnd
+1440.73426582352	0	720361	Markers	event: presentedStimulus; stimulus:LTLB11
+1443.75429572717	0	721871	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTLB11
+1445.45631258015	0	722722	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTLB11; response: 5
+1445.47231273858	0	722730	Markers	event: anchorsPresented; scale: Likert-Faszination
+1446.49032281869	0	723239	Markers	event: fixationCrossStart
+1446.99032776962	0	723489	Markers	event: fixationCrossEnd
+1447.50833289879	0	723748	Markers	event: presentedStimulus; stimulus:LTLB11
+1450.52836280244	0	725258	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB11
+1452.58038312108	0	726284	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB11; response: 5
+1452.59638327951	0	726292	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1453.61439335961	0	726801	Markers	event: fixationCrossStart
+1454.11439831055	0	727051	Markers	event: fixationCrossEnd
+1454.63240343972	0	727310	Markers	event: presentedStimulus; stimulus:HTHB12
+1457.65243334337	0	728820	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB12
+1460.73846390054	0	730363	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB12; response: 3
+1460.75446405897	0	730371	Markers	event: anchorsPresented; scale: SAM-valence
+1461.77247413908	0	730880	Markers	event: fixationCrossStart
+1462.27247909001	0	731130	Markers	event: fixationCrossEnd
+1462.79048421918	0	731389	Markers	event: presentedStimulus; stimulus:LTLB11
+1465.80851410303	0	732898	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB11
+1469.24654814566	0	734617	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB11; response: 2
+1469.26254830409	0	734625	Markers	event: anchorsPresented; scale: SAM-valence
+1470.2805583842	0	735134	Markers	event: fixationCrossStart
+1470.78056333513	0	735384	Markers	event: fixationCrossEnd
+1471.2985684643	0	735643	Markers	event: presentedStimulus; stimulus:HTHB15
+1474.31859836795	0	737153	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB15
+1476.48661983521	0	738237	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB15; response: 5
+1476.50261999364	0	738245	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1477.52063007374	0	738754	Markers	event: fixationCrossStart
+1478.02063502468	0	739004	Markers	event: fixationCrossEnd
+1478.53864015385	0	739263	Markers	event: presentedStimulus; stimulus:HTHB08
+1481.5586700575	0	740773	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB08
+1484.94470358523	0	742466	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB08; response: 1
+1484.96270376347	0	742475	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1485.97871382377	0	742983	Markers	event: fixationCrossStart
+1486.4787187747	0	743233	Markers	event: fixationCrossEnd
+1486.99672390387	0	743492	Markers	event: presentedStimulus; stimulus:LTHB10
+1490.01675380752	0	745002	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTHB10
+1492.66878006728	0	746328	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTHB10; response: 4
+1492.68678024552	0	746337	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1493.70279030582	0	746845	Markers	event: fixationCrossStart
+1494.20279525675	0	747095	Markers	event: fixationCrossEnd
+1494.72080038592	0	747354	Markers	event: presentedStimulus; stimulus:HTHB19
+1497.74283030938	0	748865	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTHB19
+1502.94488181891	0	751466	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTHB19; response: 2
+1502.96288199714	0	751475	Markers	event: anchorsPresented; scale: SAM-dominance
+1503.98089207725	0	751984	Markers	event: fixationCrossStart
+1504.48089702818	0	752234	Markers	event: fixationCrossEnd
+1504.99690213755	0	752492	Markers	event: presentedStimulus; stimulus:HTHB22
+1508.0169320412	0	754002	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB22
+1510.13695303316	0	755062	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB22; response: 1
+1510.15295319159	0	755070	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1511.1709632717	0	755579	Markers	event: fixationCrossStart
+1511.67096822263	0	755829	Markers	event: fixationCrossEnd
+1512.1889733518	0	756088	Markers	event: presentedStimulus; stimulus:HTLB05
+1515.20700323565	0	757597	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB05
+1517.56102654465	0	758774	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB05; response: 4
+1517.59302686151	0	758790	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1518.61103694162	0	759299	Markers	event: fixationCrossStart
+1519.11104189255	0	759549	Markers	event: fixationCrossEnd
+1519.62904702172	0	759808	Markers	event: presentedStimulus; stimulus:HTLB04
+1522.64907692537	0	761318	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB04
+1524.30109328327	0	762144	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB04; response: 4
+1524.31709344169	0	762152	Markers	event: anchorsPresented; scale: SAM-valence
+1525.3351035218	0	762661	Markers	event: fixationCrossStart
+1525.83510847274	0	762911	Markers	event: fixationCrossEnd
+1526.3511135821	0	763169	Markers	event: presentedStimulus; stimulus:HTHB12
+1529.37114348575	0	764679	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB12
+1534.32719255942	0	767157	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB12; response: 7
+1534.34319271785	0	767165	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1535.36120279796	0	767674	Markers	event: fixationCrossStart
+1535.86120774889	0	767924	Markers	event: fixationCrossEnd
+1536.37921287806	0	768183	Markers	event: presentedStimulus; stimulus:LTHB18
+1539.39924278171	0	769693	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTHB18
+1540.66525531748	0	770326	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTHB18; response: 3
+1540.68325549572	0	770335	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1541.70126557582	0	770844	Markers	event: fixationCrossStart
+1542.20127052676	0	771094	Markers	event: fixationCrossEnd
+1542.71727563612	0	771352	Markers	event: presentedStimulus; stimulus:HTLB04
+1545.73730553977	0	772862	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB04
+1550.49335263307	0	775240	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB04; response: 4
+1550.5093527915	0	775248	Markers	event: anchorsPresented; scale: Likert-Faszination
+1551.5273628716	0	775757	Markers	event: fixationCrossStart
+1552.02736782254	0	776007	Markers	event: fixationCrossEnd
+1552.5433729319	0	776265	Markers	event: presentedStimulus; stimulus:HTLB04
+1555.56340283555	0	777775	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB04
+1558.56743258077	0	779277	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB04; response: 1
+1558.5834327392	0	779285	Markers	event: anchorsPresented; scale: Likert-Stress
+1559.60144281931	0	779794	Markers	event: fixationCrossStart
+1560.10144777025	0	780044	Markers	event: fixationCrossEnd
+1560.61945289941	0	780303	Markers	event: presentedStimulus; stimulus:HTHB06
+1563.63948280306	0	781813	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB06
+1565.52350145819	0	782755	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB06; response: 3
+1565.54150163642	0	782764	Markers	event: anchorsPresented; scale: SAM-arousal
+1566.55751169672	0	783272	Markers	event: fixationCrossStart
+1567.05751664766	0	783522	Markers	event: fixationCrossEnd
+1567.57552177683	0	783781	Markers	event: presentedStimulus; stimulus:LTLB07
+1570.59555168048	0	785291	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB07
+1573.16557712829	0	786576	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB07; response: 9
+1573.18157728672	0	786584	Markers	event: anchorsPresented; scale: Likert-Stress
+1574.19958736682	0	787093	Markers	event: fixationCrossStart
+1574.69959231776	0	787343	Markers	event: fixationCrossEnd
+1575.21759744693	0	787602	Markers	event: presentedStimulus; stimulus:HTLB12
+1578.23562733077	0	789111	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB12
+1581.32365790775	0	790655	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB12; response: 1
+1581.33965806618	0	790663	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1582.35766814629	0	791172	Markers	event: fixationCrossStart
+1582.85767309722	0	791422	Markers	event: fixationCrossEnd
+1583.37367820659	0	791680	Markers	event: presentedStimulus; stimulus:HTHB02
+1586.39370811024	0	793190	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB02
+1588.22972629007	0	794108	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB02; response: 1
+1588.2457264485	0	794116	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1589.26373652861	0	794625	Markers	event: fixationCrossStart
+1589.76374147954	0	794875	Markers	event: fixationCrossEnd
+1590.28174660871	0	795134	Markers	event: presentedStimulus; stimulus:HTLB06
+1593.30177651236	0	796644	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTLB06
+1596.05380376231	0	798020	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTLB06; response: 2
+1596.06980392074	0	798028	Markers	event: anchorsPresented; scale: Likert-Stress
+1597.08781400084	0	798537	Markers	event: fixationCrossStart
+1597.58781895178	0	798787	Markers	event: fixationCrossEnd
+1598.10582408095	0	799046	Markers	event: presentedStimulus; stimulus:LTLB12
+1601.1258539846	0	800556	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB12
+1603.72787974927	0	801857	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB12; response: 2
+1603.7438799077	0	801865	Markers	event: anchorsPresented; scale: Likert-Stress
+1604.7618899878	0	802374	Markers	event: fixationCrossStart
+1605.26189493874	0	802624	Markers	event: fixationCrossEnd
+1605.77990006791	0	802883	Markers	event: presentedStimulus; stimulus:LTHB08
+1608.79992997156	0	804393	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTHB08
+1610.09994284399	0	805043	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTHB08; response: 2
+1610.11794302222	0	805052	Markers	event: anchorsPresented; scale: Likert-Stress
+1611.13595310233	0	805561	Markers	event: fixationCrossStart
+1611.63595805326	0	805811	Markers	event: fixationCrossEnd
+1612.15396318243	0	806070	Markers	event: presentedStimulus; stimulus:HTLB03
+1615.17199306628	0	807579	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB03
+1617.69201801899	0	808839	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB03; response: 1
+1617.70801817742	0	808847	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1618.72802827733	0	809357	Markers	event: fixationCrossStart
+1619.22803322827	0	809607	Markers	event: fixationCrossEnd
+1619.74403833763	0	809865	Markers	event: presentedStimulus; stimulus:HTLB12
+1622.76406824128	0	811375	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB12
+1627.16811184912	0	813577	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB12; response: 2
+1627.18411200755	0	813585	Markers	event: anchorsPresented; scale: SAM-valence
+1628.20212208766	0	814094	Markers	event: fixationCrossStart
+1628.70212703859	0	814344	Markers	event: fixationCrossEnd
+1629.22013216776	0	814603	Markers	event: presentedStimulus; stimulus:LTHB10
+1632.24016207141	0	816113	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTHB10
+1636.12620055008	0	818056	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTHB10; response: 7
+1636.14220070851	0	818064	Markers	event: anchorsPresented; scale: SAM-dominance
+1637.16021078862	0	818573	Markers	event: fixationCrossStart
+1637.66021573955	0	818823	Markers	event: fixationCrossEnd
+1638.17822086872	0	819082	Markers	event: presentedStimulus; stimulus:LTHB18
+1641.19825077237	0	820592	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTHB18
+1647.60431420376	0	823795	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTHB18; response: 5
+1647.62031436219	0	823803	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1648.63832444229	0	824312	Markers	event: fixationCrossStart
+1649.13832939323	0	824562	Markers	event: fixationCrossEnd
+1649.6563345224	0	824821	Markers	event: presentedStimulus; stimulus:HTHB12
+1652.67636442605	0	826331	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB12
+1655.06038803211	0	827523	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB12; response: 1
+1655.09438836877	0	827540	Markers	event: anchorsPresented; scale: SAM-dominance
+1656.11239844888	0	828049	Markers	event: fixationCrossStart
+1656.61240339981	0	828299	Markers	event: fixationCrossEnd
+1657.13040852898	0	828558	Markers	event: presentedStimulus; stimulus:LTLB22
+1660.15043843263	0	830068	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB22
+1661.31844999802	0	830652	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB22; response: 5
+1661.33445015645	0	830660	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1662.35246023655	0	831169	Markers	event: fixationCrossStart
+1662.85246518749	0	831419	Markers	event: fixationCrossEnd
+1663.37047031665	0	831678	Markers	event: presentedStimulus; stimulus:LTLB12
+1666.3905002203	0	833188	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB12
+1669.55853158943	0	834772	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB12; response: 4
+1669.57653176767	0	834781	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1670.59454184777	0	835290	Markers	event: fixationCrossStart
+1671.09454679871	0	835540	Markers	event: fixationCrossEnd
+1671.61055190807	0	835798	Markers	event: presentedStimulus; stimulus:LTHB16
+1674.63058181172	0	837308	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: LTHB16
+1676.83260361564	0	838409	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: LTHB16; response: 1
+1676.85060379387	0	838418	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1677.86661385418	0	838926	Markers	event: fixationCrossStart
+1678.36661880511	0	839176	Markers	event: fixationCrossEnd
+1678.88462393428	0	839435	Markers	event: presentedStimulus; stimulus:LTLB22
+1681.90465383793	0	840945	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB22
+1682.97266441313	0	841479	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB22; response: 3
+1682.98866457156	0	841487	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1684.00667465166	0	841996	Markers	event: fixationCrossStart
+1684.5066796026	0	842246	Markers	event: fixationCrossEnd
+1685.02468473177	0	842505	Markers	event: presentedStimulus; stimulus:LTHB16
+1688.04471463542	0	844015	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTHB16
+1690.3307372711	0	845158	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTHB16; response: 4
+1690.34673742953	0	845166	Markers	event: anchorsPresented; scale: SAM-dominance
+1691.36474750963	0	845675	Markers	event: fixationCrossStart
+1691.86475246057	0	845925	Markers	event: fixationCrossEnd
+1692.38075756993	0	846183	Markers	event: presentedStimulus; stimulus:LTHB10
+1695.40078747358	0	847693	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTHB10
+1697.31880646537	0	848652	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTHB10; response: 1
+1697.3368066436	0	848661	Markers	event: anchorsPresented; scale: Likert-Stress
+1698.35481672371	0	849170	Markers	event: fixationCrossStart
+1698.85482167464	0	849420	Markers	event: fixationCrossEnd
+1699.37282680381	0	849679	Markers	event: presentedStimulus; stimulus:HTHB18
+1702.39085668766	0	851188	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTHB18
+1706.76289997864	0	853374	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTHB18; response: 4
+1706.77890013707	0	853382	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1707.79691021717	0	853891	Markers	event: fixationCrossStart
+1708.29691516811	0	854141	Markers	event: fixationCrossEnd
+1708.81492029728	0	854400	Markers	event: presentedStimulus; stimulus:LTLB01
+1711.83495020093	0	855910	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB01
+1715.47098620413	0	857728	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB01; response: 5
+1715.48698636256	0	857736	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1716.50499644267	0	858245	Markers	event: fixationCrossStart
+1717.0050013936	0	858495	Markers	event: fixationCrossEnd
+1717.52300652277	0	858754	Markers	event: presentedStimulus; stimulus:HTLB12
+1720.54303642642	0	860264	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB12
+1722.44505525978	0	861215	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB12; response: 4
+1722.46105541821	0	861223	Markers	event: anchorsPresented; scale: SAM-arousal
+1723.47906549831	0	861732	Markers	event: fixationCrossStart
+1723.97907044925	0	861982	Markers	event: fixationCrossEnd
+1724.49707557842	0	862241	Markers	event: presentedStimulus; stimulus:LTHB07
+1727.51710548207	0	863751	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTHB07
+1729.16712182016	0	864576	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTHB07; response: 5
+1729.18512199839	0	864585	Markers	event: anchorsPresented; scale: SAM-valence
+1730.20313207849	0	865094	Markers	event: fixationCrossStart
+1730.70313702943	0	865344	Markers	event: fixationCrossEnd
+1731.21914213879	0	865602	Markers	event: presentedStimulus; stimulus:HTLB03
+1734.23917204245	0	867112	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTLB03
+1736.75919699516	0	868372	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTLB03; response: 4
+1736.77519715359	0	868380	Markers	event: anchorsPresented; scale: Likert-Faszination
+1737.79320723369	0	868889	Markers	event: fixationCrossStart
+1738.29321218463	0	869139	Markers	event: fixationCrossEnd
+1738.8112173138	0	869398	Markers	event: presentedStimulus; stimulus:HTHB22
+1741.83124721745	0	870908	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB22
+1747.40130237087	0	873693	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB22; response: 2
+1747.4193025491	0	873702	Markers	event: anchorsPresented; scale: Likert-Faszination
+1748.43731262921	0	874211	Markers	event: fixationCrossStart
+1748.93731758014	0	874461	Markers	event: fixationCrossEnd
+1749.45332268951	0	874719	Markers	event: presentedStimulus; stimulus:LTLB22
+1752.47335259316	0	876229	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB22
+1755.10937869449	0	877547	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB22; response: 3
+1755.12737887273	0	877556	Markers	event: anchorsPresented; scale: Likert-Stress
+1756.14338893303	0	878064	Markers	event: fixationCrossStart
+1756.64339388396	0	878314	Markers	event: fixationCrossEnd
+1757.16139901313	0	878573	Markers	event: presentedStimulus; stimulus:LTLB07
+1760.18142891678	0	880083	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTLB07
+1764.23546905897	0	882110	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTLB07; response: 1
+1764.2514692174	0	882118	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1765.2694792975	0	882627	Markers	event: fixationCrossStart
+1765.76948424844	0	882877	Markers	event: fixationCrossEnd
+1766.28748937761	0	883136	Markers	event: presentedStimulus; stimulus:LTHB08
+1769.30751928126	0	884646	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTHB08
+1774.96357528624	0	887474	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTHB08; response: 2
+1774.97957544467	0	887482	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1775.99758552477	0	887991	Markers	event: fixationCrossStart
+1776.49759047571	0	888241	Markers	event: fixationCrossEnd
+1777.01359558507	0	888499	Markers	event: presentedStimulus; stimulus:HTHB02
+1780.03362548872	0	890009	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB02
+1781.88564382699	0	890935	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB02; response: 2
+1781.90364400522	0	890944	Markers	event: anchorsPresented; scale: Likert-Stress
+1782.91965406552	0	891452	Markers	event: fixationCrossStart
+1783.41965901646	0	891702	Markers	event: fixationCrossEnd
+1783.93766414563	0	891961	Markers	event: presentedStimulus; stimulus:LTHB19
+1786.95769404928	0	893471	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTHB19
+1789.86172280431	0	894923	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTHB19; response: 4
+1789.87772296274	0	894931	Markers	event: anchorsPresented; scale: SAM-arousal
+1790.89573304285	0	895440	Markers	event: fixationCrossStart
+1791.39573799378	0	895690	Markers	event: fixationCrossEnd
+1791.91174310315	0	895948	Markers	event: presentedStimulus; stimulus:HTHB02
+1794.9317730068	0	897458	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB02
+1798.06780405906	0	899026	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB02; response: 5
+1798.0858042373	0	899035	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1799.1038143174	0	899544	Markers	event: fixationCrossStart
+1799.60381926834	0	899794	Markers	event: fixationCrossEnd
+1800.1198243777	0	900052	Markers	event: presentedStimulus; stimulus:LTLB07
+1803.13985428135	0	901562	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB07
+1806.90989161141	0	903447	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB07; response: 4
+1806.94389194807	0	903464	Markers	event: anchorsPresented; scale: Likert-Faszination
+1807.96190202818	0	903973	Markers	event: fixationCrossStart
+1808.46190697911	0	904223	Markers	event: fixationCrossEnd
+1808.97991210828	0	904482	Markers	event: presentedStimulus; stimulus:HTHB12
+1811.99994201193	0	905992	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB12
+1814.01796199391	0	907001	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB12; response: 1
+1814.03396215234	0	907009	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1815.05197223244	0	907518	Markers	event: fixationCrossStart
+1815.55197718338	0	907768	Markers	event: fixationCrossEnd
+1816.06998231255	0	908027	Markers	event: presentedStimulus; stimulus:LTLB22
+1819.092012236	0	909538	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB22
+1822.96005053644	0	911472	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB22; response: 4
+1822.97605069487	0	911480	Markers	event: anchorsPresented; scale: SAM-valence
+1823.99406077497	0	911989	Markers	event: fixationCrossStart
+1824.49406572591	0	912239	Markers	event: fixationCrossEnd
+1825.01207085508	0	912498	Markers	event: presentedStimulus; stimulus:LTLB07
+1828.03210075873	0	914008	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB07
+1830.00012024561	0	914992	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB07; response: 2
+1830.01612040404	0	915000	Markers	event: anchorsPresented; scale: SAM-arousal
+1831.03413048414	0	915509	Markers	event: fixationCrossStart
+1831.53413543508	0	915759	Markers	event: fixationCrossEnd
+1832.05214056425	0	916018	Markers	event: presentedStimulus; stimulus:LTLB06
+1835.0721704679	0	917528	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTLB06
+1839.61021540259	0	919797	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTLB06; response: 4
+1839.62621556102	0	919805	Markers	event: anchorsPresented; scale: SAM-arousal
+1840.64422564112	0	920314	Markers	event: fixationCrossStart
+1841.14423059206	0	920564	Markers	event: fixationCrossEnd
+1841.66223572123	0	920823	Markers	event: presentedStimulus; stimulus:HTLB05
+1844.68026560507	0	922332	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB05
+1847.23429089445	0	923609	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB05; response: 7
+1847.25029105288	0	923617	Markers	event: anchorsPresented; scale: SAM-dominance
+1848.26830113299	0	924126	Markers	event: fixationCrossStart
+1848.76830608392	0	924376	Markers	event: fixationCrossEnd
+1849.28631121309	0	924635	Markers	event: presentedStimulus; stimulus:HTLB11
+1852.30634111674	0	926145	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB11
+1854.4243620889	0	927204	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB11; response: 9
+1854.44036224733	0	927212	Markers	event: anchorsPresented; scale: SAM-arousal
+1855.45837232744	0	927721	Markers	event: fixationCrossStart
+1855.95837727837	0	927971	Markers	event: fixationCrossEnd
+1856.47638240754	0	928230	Markers	event: presentedStimulus; stimulus:LTHB08
+1859.498412331	0	929741	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTHB08
+1862.64844352189	0	931316	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTHB08; response: 7
+1862.66444368032	0	931324	Markers	event: anchorsPresented; scale: Likert-Stress
+1863.68245376042	0	931833	Markers	event: fixationCrossStart
+1864.18245871136	0	932083	Markers	event: fixationCrossEnd
+1864.70046384053	0	932342	Markers	event: presentedStimulus; stimulus:HTLB06
+1867.72049374418	0	933852	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB06
+1870.35651984551	0	935170	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB06; response: 3
+1870.37252000394	0	935178	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1871.39053008405	0	935687	Markers	event: fixationCrossStart
+1871.89053503498	0	935937	Markers	event: fixationCrossEnd
+1872.40854016415	0	936196	Markers	event: presentedStimulus; stimulus:HTHB22
+1875.4285700678	0	937706	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB22
+1877.28058840607	0	938632	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB22; response: 1
+1877.2965885645	0	938640	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1878.3145986446	0	939149	Markers	event: fixationCrossStart
+1878.81460359554	0	939399	Markers	event: fixationCrossEnd
+1879.33260872471	0	939658	Markers	event: presentedStimulus; stimulus:LTLB01
+1882.35063860855	0	941167	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTLB01
+1887.1886865138	0	943586	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTLB01; response: 4
+1887.20668669204	0	943595	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1888.22269675234	0	944103	Markers	event: fixationCrossStart
+1888.72470172308	0	944354	Markers	event: fixationCrossEnd
+1889.24070683244	0	944612	Markers	event: presentedStimulus; stimulus:HTLB06
+1892.26073673609	0	946122	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB06
+1895.61476994697	0	947799	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB06; response: 2
+1895.6307701054	0	947807	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1896.6487801855	0	948316	Markers	event: fixationCrossStart
+1897.14878513644	0	948566	Markers	event: fixationCrossEnd
+1897.66679026561	0	948825	Markers	event: presentedStimulus; stimulus:LTLB06
+1900.68682016926	0	950335	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB06
+1902.38883702224	0	951186	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB06; response: 3
+1902.40483718067	0	951194	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1903.42284726078	0	951703	Markers	event: fixationCrossStart
+1903.92285221171	0	951953	Markers	event: fixationCrossEnd
+1904.43885732108	0	952211	Markers	event: presentedStimulus; stimulus:HTHB22
+1907.46088724453	0	953722	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB22
+1909.17690423614	0	954580	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB22; response: 3
+1909.19490441438	0	954589	Markers	event: anchorsPresented; scale: Likert-Faszination
+1910.21291449448	0	955098	Markers	event: fixationCrossStart
+1910.71291944542	0	955348	Markers	event: fixationCrossEnd
+1911.22892455478	0	955606	Markers	event: presentedStimulus; stimulus:LTLB12
+1914.24895445843	0	957116	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB12
+1917.70298865949	0	958843	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB12; response: 3
+1917.71898881792	0	958851	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+1918.73699889803	0	959360	Markers	event: fixationCrossStart
+1919.23700384896	0	959610	Markers	event: fixationCrossEnd
+1919.75500897813	0	959869	Markers	event: presentedStimulus; stimulus:HTHB06
+1922.77503888178	0	961379	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB06
+1924.74305836867	0	962363	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB06; response: 1
+1924.7590585271	0	962371	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1925.7770686072	0	962880	Markers	event: fixationCrossStart
+1926.27707355814	0	963130	Markers	event: fixationCrossEnd
+1926.7950786873	0	963389	Markers	event: presentedStimulus; stimulus:HTHB18
+1929.81510859095	0	964899	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB18
+1933.01714029675	0	966500	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB18; response: 4
+1933.05114063341	0	966517	Markers	event: anchorsPresented; scale: Likert-Faszination
+1934.06915071351	0	967026	Markers	event: fixationCrossStart
+1934.56915566445	0	967276	Markers	event: fixationCrossEnd
+1935.08716079362	0	967535	Markers	event: presentedStimulus; stimulus:HTHB18
+1938.10519067746	0	969044	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB18
+1939.82520770868	0	969904	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB18; response: 1
+1939.84120786711	0	969912	Markers	event: anchorsPresented; scale: Likert-Schnheit
+1940.85921794722	0	970421	Markers	event: fixationCrossStart
+1941.35922289815	0	970671	Markers	event: fixationCrossEnd
+1941.87722802732	0	970930	Markers	event: presentedStimulus; stimulus:HTLB13
+1944.89525791117	0	972439	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB13
+1946.48127361554	0	973232	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB13; response: 1
+1946.5132739324	0	973248	Markers	event: anchorsPresented; scale: SAM-dominance
+1947.5312840125	0	973757	Markers	event: fixationCrossStart
+1948.03128896344	0	974007	Markers	event: fixationCrossEnd
+1948.5492940926	0	974266	Markers	event: presentedStimulus; stimulus:HTLB04
+1951.56932399626	0	975776	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB04
+1953.52134332471	0	976752	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB04; response: 3
+1953.53734348314	0	976760	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+1954.55535356324	0	977269	Markers	event: fixationCrossStart
+1955.05535851418	0	977519	Markers	event: fixationCrossEnd
+1955.57336364335	0	977778	Markers	event: presentedStimulus; stimulus:HTLB11
+1958.593393547	0	979288	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: HTLB11
+1960.59541337054	0	980289	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: HTLB11; response: 5
+1960.61141352897	0	980297	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1961.62942360908	0	980806	Markers	event: fixationCrossStart
+1962.12942856001	0	981056	Markers	event: fixationCrossEnd
+1962.64743368918	0	981315	Markers	event: presentedStimulus; stimulus:LTLB06
+1965.66546357303	0	982824	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB06
+1969.11949777409	0	984551	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB06; response: 3
+1969.13549793252	0	984559	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1970.15350801263	0	985068	Markers	event: fixationCrossStart
+1970.65351296356	0	985318	Markers	event: fixationCrossEnd
+1971.17151809273	0	985577	Markers	event: presentedStimulus; stimulus:LTLB12
+1974.19154799638	0	987087	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB12
+1978.71359277264	0	989348	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB12; response: 2
+1978.72959293107	0	989356	Markers	event: anchorsPresented; scale: SAM-arousal
+1979.74760301117	0	989865	Markers	event: fixationCrossStart
+1980.24760796211	0	990115	Markers	event: fixationCrossEnd
+1980.76361307148	0	990373	Markers	event: presentedStimulus; stimulus:HTLB04
+1983.78364297513	0	991883	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTLB04
+1986.6036708984	0	993293	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTLB04; response: 7
+1986.61967105683	0	993301	Markers	event: anchorsPresented; scale: Likert-Offenheit
+1987.63768113694	0	993810	Markers	event: fixationCrossStart
+1988.13768608787	0	994060	Markers	event: fixationCrossEnd
+1988.65569121704	0	994319	Markers	event: presentedStimulus; stimulus:HTLB03
+1991.67572112069	0	995829	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTLB03
+1995.36175761899	0	997672	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTLB03; response: 2
+1995.37975779722	0	997681	Markers	event: anchorsPresented; scale: SAM-dominance
+1996.39576785752	0	998189	Markers	event: fixationCrossStart
+1996.89577280846	0	998439	Markers	event: fixationCrossEnd
+1997.41377793763	0	998698	Markers	event: presentedStimulus; stimulus:HTHB15
+2000.43380784128	0	1000208	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTHB15
+2003.66983988373	0	1001826	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTHB15; response: 7
+2003.68784006197	0	1001835	Markers	event: anchorsPresented; scale: Likert-Schnheit
+2004.70385012227	0	1002343	Markers	event: fixationCrossStart
+2005.20585509301	0	1002594	Markers	event: fixationCrossEnd
+2005.72186020237	0	1002852	Markers	event: presentedStimulus; stimulus:HTHB19
+2008.74189010602	0	1004362	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB19
+2010.59390844429	0	1005288	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB19; response: 1
+2010.60990860272	0	1005296	Markers	event: anchorsPresented; scale: SAM-valence
+2011.62791868282	0	1005805	Markers	event: fixationCrossStart
+2012.12792363376	0	1006055	Markers	event: fixationCrossEnd
+2012.64592876293	0	1006314	Markers	event: presentedStimulus; stimulus:LTLB12
+2015.66595866658	0	1007824	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB12
+2020.10400261108	0	1010043	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB12; response: 3
+2020.13600292794	0	1010059	Markers	event: anchorsPresented; scale: SAM-arousal
+2021.15401300804	0	1010568	Markers	event: fixationCrossStart
+2021.65401795898	0	1010818	Markers	event: fixationCrossEnd
+2022.17202308815	0	1011077	Markers	event: presentedStimulus; stimulus:LTHB16
+2025.1920529918	0	1012587	Markers	event: scalePresented; scale: SAM-arousal; stimulus: LTHB16
+2028.24408321231	0	1014113	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: LTHB16; response: 5
+2028.26208339054	0	1014122	Markers	event: anchorsPresented; scale: Likert-Faszination
+2029.27809345084	0	1014630	Markers	event: fixationCrossStart
+2029.77809840178	0	1014880	Markers	event: fixationCrossEnd
+2030.29610353095	0	1015139	Markers	event: presentedStimulus; stimulus:HTLB03
+2033.3161334346	0	1016649	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTLB03
+2035.83615838731	0	1017909	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTLB03; response: 4
+2035.85215854574	0	1017917	Markers	event: anchorsPresented; scale: Likert-Schnheit
+2036.87016862585	0	1018426	Markers	event: fixationCrossStart
+2037.37017357678	0	1018676	Markers	event: fixationCrossEnd
+2037.88617868615	0	1018934	Markers	event: presentedStimulus; stimulus:HTLB11
+2040.9062085898	0	1020444	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB11
+2043.67623601798	0	1021829	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB11; response: 4
+2043.69223617641	0	1021837	Markers	event: anchorsPresented; scale: SAM-valence
+2044.71024625652	0	1022346	Markers	event: fixationCrossStart
+2045.21025120745	0	1022596	Markers	event: fixationCrossEnd
+2045.72825633662	0	1022855	Markers	event: presentedStimulus; stimulus:HTHB22
+2048.74828624027	0	1024365	Markers	event: scalePresented; scale: SAM-valence; stimulus: HTHB22
+2051.61831465864	0	1025800	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: HTHB22; response: 7
+2051.63431481707	0	1025808	Markers	event: anchorsPresented; scale: Likert-Offenheit
+2052.65232489717	0	1026317	Markers	event: fixationCrossStart
+2053.15232984811	0	1026567	Markers	event: fixationCrossEnd
+2053.67033497728	0	1026826	Markers	event: presentedStimulus; stimulus:HTHB08
+2056.68836486113	0	1028335	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: HTHB08
+2059.99239757691	0	1029987	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: HTHB08; response: 2
+2060.00839773534	0	1029995	Markers	event: anchorsPresented; scale: SAM-dominance
+2061.02640781544	0	1030504	Markers	event: fixationCrossStart
+2061.52641276638	0	1030754	Markers	event: fixationCrossEnd
+2062.04441789555	0	1031013	Markers	event: presentedStimulus; stimulus:LTLB03
+2065.0644477992	0	1032523	Markers	event: scalePresented; scale: SAM-dominance; stimulus: LTLB03
+2067.03246728608	0	1033507	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: LTLB03; response: 6
+2067.04846744451	0	1033515	Markers	event: anchorsPresented; scale: Likert-Schnheit
+2068.06647752461	0	1034024	Markers	event: fixationCrossStart
+2068.56648247555	0	1034274	Markers	event: fixationCrossEnd
+2069.08448760472	0	1034533	Markers	event: presentedStimulus; stimulus:HTLB12
+2072.10451750837	0	1036043	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTLB12
+2073.98853616349	0	1036985	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTLB12; response: 2
+2074.00653634173	0	1036994	Markers	event: anchorsPresented; scale: Likert-Faszination
+2075.02454642183	0	1037503	Markers	event: fixationCrossStart
+2075.52455137277	0	1037753	Markers	event: fixationCrossEnd
+2076.04055648213	0	1038011	Markers	event: presentedStimulus; stimulus:LTLB06
+2079.06058638578	0	1039521	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB06
+2081.33060886303	0	1040656	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB06; response: 4
+2081.34660902146	0	1040664	Markers	event: anchorsPresented; scale: Likert-Stress
+2082.36461910156	0	1041173	Markers	event: fixationCrossStart
+2082.8646240525	0	1041423	Markers	event: fixationCrossEnd
+2083.38262918167	0	1041682	Markers	event: presentedStimulus; stimulus:LTHB18
+2086.40065906552	0	1043191	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTHB18
+2089.40468881074	0	1044693	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTHB18; response: 4
+2089.4366891276	0	1044709	Markers	event: anchorsPresented; scale: SAM-valence
+2090.4546992077	0	1045218	Markers	event: fixationCrossStart
+2090.95470415864	0	1045468	Markers	event: fixationCrossEnd
+2091.47270928781	0	1045727	Markers	event: presentedStimulus; stimulus:LTHB08
+2094.49473921126	0	1047238	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTHB08
+2096.66076065871	0	1048321	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTHB08; response: 7
+2096.67876083695	0	1048330	Markers	event: anchorsPresented; scale: Likert-Faszination
+2097.69677091705	0	1048839	Markers	event: fixationCrossStart
+2098.19677586799	0	1049089	Markers	event: fixationCrossEnd
+2098.71278097735	0	1049347	Markers	event: presentedStimulus; stimulus:LTLB03
+2101.732810881	0	1050857	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB03
+2103.71883054612	0	1051850	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB03; response: 4
+2103.73483070455	0	1051858	Markers	event: anchorsPresented; scale: Likert-Faszination
+2104.75284078465	0	1052367	Markers	event: fixationCrossStart
+2105.25284573559	0	1052617	Markers	event: fixationCrossEnd
+2105.77085086476	0	1052876	Markers	event: presentedStimulus; stimulus:LTHB19
+2108.79088076841	0	1054386	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTHB19
+2110.6588992651	0	1055320	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTHB19; response: 4
+2110.67489942353	0	1055328	Markers	event: anchorsPresented; scale: SAM-valence
+2111.69290950364	0	1055837	Markers	event: fixationCrossStart
+2112.19291445457	0	1056087	Markers	event: fixationCrossEnd
+2112.71091958374	0	1056346	Markers	event: presentedStimulus; stimulus:LTLB03
+2115.73094948739	0	1057856	Markers	event: scalePresented; scale: SAM-valence; stimulus: LTLB03
+2121.03500200691	0	1060508	Markers	event: optionConfirmed; scale: SAM-valence; stimulus: LTLB03; response: 4
+2121.05300218515	0	1060517	Markers	event: anchorsPresented; scale: Likert-Sicherheit
+2122.06901224545	0	1061025	Markers	event: fixationCrossStart
+2122.56901719638	0	1061275	Markers	event: fixationCrossEnd
+2123.08702232555	0	1061534	Markers	event: presentedStimulus; stimulus:LTLB07
+2126.1070522292	0	1063044	Markers	event: scalePresented; scale: Likert-Sicherheit; stimulus: LTLB07
+2127.94307040904	0	1063962	Markers	event: optionConfirmed; scale: Likert-Sicherheit; stimulus: LTLB07; response: 5
+2127.95907056747	0	1063970	Markers	event: anchorsPresented; scale: Likert-Faszination
+2128.97708064757	0	1064479	Markers	event: fixationCrossStart
+2129.47708559851	0	1064729	Markers	event: fixationCrossEnd
+2129.99509072768	0	1064988	Markers	event: presentedStimulus; stimulus:LTLB07
+2133.01512063133	0	1066498	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTLB07
+2136.71715728805	0	1068349	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTLB07; response: 5
+2136.73315744648	0	1068357	Markers	event: anchorsPresented; scale: Likert-Schnheit
+2137.75116752659	0	1068866	Markers	event: fixationCrossStart
+2138.25117247752	0	1069116	Markers	event: fixationCrossEnd
+2138.76917760669	0	1069375	Markers	event: presentedStimulus; stimulus:HTHB15
+2141.78920751034	0	1070885	Markers	event: scalePresented; scale: Likert-Schnheit; stimulus: HTHB15
+2144.34123277992	0	1072161	Markers	event: optionConfirmed; scale: Likert-Schnheit; stimulus: HTHB15; response: 1
+2144.35923295815	0	1072170	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+2145.37524301845	0	1072678	Markers	event: fixationCrossStart
+2145.87524796939	0	1072928	Markers	event: fixationCrossEnd
+2146.39325309856	0	1073187	Markers	event: presentedStimulus; stimulus:LTHB19
+2149.41328300221	0	1074697	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: LTHB19
+2152.01530876688	0	1075998	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: LTHB19; response: 2
+2152.03330894511	0	1076007	Markers	event: anchorsPresented; scale: Likert-Faszination
+2153.04931900541	0	1076515	Markers	event: fixationCrossStart
+2153.55132397615	0	1076766	Markers	event: fixationCrossEnd
+2154.06732908552	0	1077024	Markers	event: presentedStimulus; stimulus:LTHB16
+2157.08735898917	0	1078534	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTHB16
+2159.03937831762	0	1079510	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTHB16; response: 1
+2159.05537847605	0	1079518	Markers	event: anchorsPresented; scale: Likert-Stress
+2160.07338855615	0	1080027	Markers	event: fixationCrossStart
+2160.57539352689	0	1080278	Markers	event: fixationCrossEnd
+2161.09139863626	0	1080536	Markers	event: presentedStimulus; stimulus:LTHB16
+2164.11142853991	0	1082046	Markers	event: scalePresented; scale: Likert-Stress; stimulus: LTHB16
+2165.31344044196	0	1082647	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: LTHB16; response: 3
+2165.32944060039	0	1082655	Markers	event: anchorsPresented; scale: SAM-dominance
+2166.34745068049	0	1083164	Markers	event: fixationCrossStart
+2166.84745563143	0	1083414	Markers	event: fixationCrossEnd
+2167.36346074079	0	1083672	Markers	event: presentedStimulus; stimulus:HTLB03
+2170.38349064444	0	1085182	Markers	event: scalePresented; scale: SAM-dominance; stimulus: HTLB03
+2172.71951377521	0	1086350	Markers	event: optionConfirmed; scale: SAM-dominance; stimulus: HTLB03; response: 7
+2172.73551393364	0	1086358	Markers	event: anchorsPresented; scale: Likert-Offenheit
+2173.75352401375	0	1086867	Markers	event: fixationCrossStart
+2174.25352896468	0	1087117	Markers	event: fixationCrossEnd
+2174.77153409385	0	1087376	Markers	event: presentedStimulus; stimulus:LTLB03
+2177.7915639975	0	1088886	Markers	event: scalePresented; scale: Likert-Offenheit; stimulus: LTLB03
+2183.06361620017	0	1091522	Markers	event: optionConfirmed; scale: Likert-Offenheit; stimulus: LTLB03; response: 4
+2183.0796163586	0	1091530	Markers	event: anchorsPresented; scale: Likert-Faszination
+2184.0976264387	0	1092039	Markers	event: fixationCrossStart
+2184.59763138964	0	1092289	Markers	event: fixationCrossEnd
+2185.1156365188	0	1092548	Markers	event: presentedStimulus; stimulus:LTHB18
+2188.13566642245	0	1094058	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: LTHB18
+2189.96968458249	0	1094975	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: LTHB18; response: 4
+2189.98568474092	0	1094983	Markers	event: anchorsPresented; scale: Likert-Faszination
+2191.00369482102	0	1095492	Markers	event: fixationCrossStart
+2191.50369977196	0	1095742	Markers	event: fixationCrossEnd
+2192.02170490113	0	1096001	Markers	event: presentedStimulus; stimulus:HTHB08
+2195.04173480478	0	1097511	Markers	event: scalePresented; scale: Likert-Faszination; stimulus: HTHB08
+2196.57574999425	0	1098278	Markers	event: optionConfirmed; scale: Likert-Faszination; stimulus: HTHB08; response: 1
+2196.59375017248	0	1098287	Markers	event: anchorsPresented; scale: SAM-arousal
+2197.60976023278	0	1098795	Markers	event: fixationCrossStart
+2198.10976518372	0	1099045	Markers	event: fixationCrossEnd
+2198.62777031288	0	1099304	Markers	event: presentedStimulus; stimulus:HTHB08
+2201.64780021654	0	1100814	Markers	event: scalePresented; scale: SAM-arousal; stimulus: HTHB08
+2205.86984202223	0	1102925	Markers	event: optionConfirmed; scale: SAM-arousal; stimulus: HTHB08; response: 3
+2205.88584218066	0	1102933	Markers	event: anchorsPresented; scale: Likert-Stress
+2206.90385226077	0	1103442	Markers	event: fixationCrossStart
+2207.4038572117	0	1103692	Markers	event: fixationCrossEnd
+2207.91986232107	0	1103950	Markers	event: presentedStimulus; stimulus:HTLB13
+2210.93989222472	0	1105460	Markers	event: scalePresented; scale: Likert-Stress; stimulus: HTLB13
+2213.50991767253	0	1106745	Markers	event: optionConfirmed; scale: Likert-Stress; stimulus: HTLB13; response: 4
+2213.52591783096	0	1106753	Markers	event: anchorsPresented; scale: Likert-Heimeligkeit
+2214.54392791106	0	1107262	Markers	event: fixationCrossStart
+2215.043932862	0	1107512	Markers	event: fixationCrossEnd
+2215.56193799117	0	1107771	Markers	event: presentedStimulus; stimulus:HTHB19
+2218.58196789482	0	1109281	Markers	event: scalePresented; scale: Likert-Heimeligkeit; stimulus: HTHB19
+2221.76799944218	0	1110874	Markers	event: optionConfirmed; scale: Likert-Heimeligkeit; stimulus: HTHB19; response: 1
+2221.80199977884	0	1110891	Markers	event: breakStart

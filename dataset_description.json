@@ -1,0 +1,29 @@
+{
+	"Acknowledgements":"Thanks to Kim Aljoscha Bressem for his help with data collection",
+	"Authors":[
+		"Carolina Zaehme",
+		"Isabelle Sander",
+		"Aleksandrs Koselevs",
+		"Simone Kuehn",
+		"Klaus Gramann"
+	],
+	"BIDSVersion":"unofficial extension",
+	"DatasetDOI":"n/a",
+	"DatasetType":"raw",
+	"Funding":[
+		"This Study was realized by funding from the Berlin University Alliance."
+	],
+	"GeneratedBy":[
+		{
+			"Name":"FieldTrip",
+			"Version":"unknown",
+			"Description":"data2bids converter",
+			"URI":"https://www.fieldtriptoolbox.org"
+		}
+	],
+	"License":"CC BY 4.0",
+	"Name":"Rating Streetview Images of different Urban Envrionments",
+	"ReferencesAndLinks":[
+		"n/a"
+	]
+}
