@@ -43,7 +43,7 @@ Note: While EDA data is labeled as being recorded in microVolts, the actual unit
 
 - [ ] Independent variables
 
-56 different Streetview images being presented in combination with 9 different prompts & scales. Semantic segmentation was used to extract area of images covered by buildings, greenery, cars, sky and people to use as predictors for subjective and neural responses.
+56 different Streetview images (available via github.com/BeMoBIL/urban_appraisal_experiment) being presented in combination with 9 different prompts & scales. Semantic segmentation was used to extract area of images covered by buildings, greenery, cars, sky and people to use as predictors for subjective and neural responses.
 
 - [ ] Dependent variables
 
@@ -87,7 +87,7 @@ Two sessions (pre and post break): Stimuli were separated into 28 pre and 28 pos
 
 ### Task details
 
-uring the experiment, participants were presented with different urban stimuli and had to subsequently rate them on the nine subjective rating scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination). Each of the 56 stimuli were rated on each of the nine scales resulting in 504 trials. The stimulus-scale combinations were randomized individually for each participant and presented across two blocks of 28 stimuli each, separated by a break. Each experimental trial consisted of participants being presented with a word pair for 1000ms priming them to the scale they would be presented with (arousal: excited – calm; valence: happy – unhappy; dominance: controlled – in control; stress: relaxed – stressful; openness: narrow – open; safety: unsafe – safe; beauty: ugly – beautiful; hominess: alienated – at home; fascination: boring – fascinating). Subsequently, a fixation cross appeared for 500ms, followed by a stimulus for 3000ms. After the stimulus disappeared, the rating scale was presented until participants logged a rating using the computer mouse. At the beginning and end of the experiment there was a 3 min baseline recording in which participants kept their eyes open and looking at the screen.
+During the experiment, participants were presented with different urban stimuli and had to subsequently rate them on the nine subjective rating scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination). Each of the 56 stimuli were rated on each of the nine scales resulting in 504 trials. The stimulus-scale combinations were randomized individually for each participant and presented across two blocks of 28 stimuli each, separated by a break. Each experimental trial consisted of participants being presented with a word pair for 1000ms priming them to the scale they would be presented with (arousal: excited – calm; valence: happy – unhappy; dominance: controlled – in control; stress: relaxed – stressful; openness: narrow – open; safety: unsafe – safe; beauty: ugly – beautiful; hominess: alienated – at home; fascination: boring – fascinating). Subsequently, a fixation cross appeared for 500ms, followed by a stimulus for 3000ms. After the stimulus disappeared, the rating scale was presented until participants logged a rating using the computer mouse. At the beginning and end of the experiment there was a 3 min baseline recording in which participants kept their eyes open and looking at the screen.
 
 ### Additional data acquired
 
