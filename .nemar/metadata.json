@@ -1,0 +1,35 @@
+{
+  "version": "2.0",
+  "dataset_id": "on006850",
+  "source": "openneuro",
+  "source_id": "ds006850",
+  "title": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
+  "authors": {
+    "Carolina Zaehme": {},
+    "Isabelle Sander": {},
+    "Klaus Gramann": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds006850.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "unofficial extension",
+  "recording_modality": [
+    "eeg"
+  ],
+  "datatypes": [
+    "eeg"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "This Study was realized by funding from the Berlin University Alliance."
+    }
+  ],
+  "acknowledgements": "Thanks to Kim Aljoscha Bressem for his help with data collection"
+}
