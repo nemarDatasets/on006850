@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
-  "description": "This dataset comprises continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments. Participants rated 56 different urban scenes on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination) while neural responses were recorded. The study investigates how different urban environmental elements influence subjective appraisals and neural responses, with semantic segmentation features extracted from stimuli to predict both behavioral ratings and event-related potentials.",
-  "methods_description": "EEG data were collected using 64-channel active wet electrodes in the 10-20 system (FCz reference) sampled at 500 Hz with 16-bit resolution using BrainAmp DC amplifiers. ECG was recorded from two electrodes (right clavicle and left shinbone) and EDA from the middle and ring fingers of the non-dominant hand using velcro electrodes. Electrode impedances were maintained below 10 kOhm. Stimuli were presented on a 27-inch monitor (2560×1440 resolution, 60 Hz refresh rate) using Psychtoolbox. Participants completed two experimental blocks of 28 stimuli each, separated by a break, with each stimulus rated on nine scales following a 1000 ms prime word pair, 500 ms fixation cross, and 3000 ms stimulus presentation.",
+  "description": "This dataset comprises continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments. Participants rated 56 different urban scenes on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination) while neural responses were recorded. The study investigates how different urban environmental elements influence subjective appraisals and neural processing, with semantic segmentation features extracted from stimuli to predict both behavioral ratings and event-related potentials.",
+  "methods_description": "EEG data were collected from 63 participants using 64-channel active wet electrodes in the 10-20 system (FCz reference) sampled at 500 Hz with 16-bit resolution using BrainAmp DC amplifiers. ECG was recorded from two electrodes (right clavicle and left shinbone) and EDA from the middle and ring fingers of the non-dominant hand using velcro electrodes. Stimuli (56 Streetview images) were presented on a 27-inch monitor at 2560×1440 resolution using Psychtoolbox. Participants rated each stimulus on nine scales across two blocks separated by a break, with a 3-minute baseline recording at experiment start and end. Note: EDA data is labeled in microVolts but represents microSiemens units.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -34,16 +34,19 @@
       "term": "environmental psychology"
     },
     {
+      "term": "Streetview"
+    },
+    {
       "term": "semantic segmentation"
     },
     {
-      "term": "Streetview"
+      "term": "environmental perception"
     },
     {
       "term": "urban psychology"
     },
     {
-      "term": "urban perception"
+      "term": "environmental appraisal"
     },
     {
       "term": "psychophysiology"
