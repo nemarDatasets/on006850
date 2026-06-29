@@ -1,35 +1,106 @@
 {
   "version": "2.0",
-  "dataset_id": "on006850",
-  "source": "openneuro",
-  "source_id": "ds006850",
+  "pipeline_stage": "enriched",
   "title": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Carolina Zaehme": {},
     "Isabelle Sander": {},
     "Klaus Gramann": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds006850.v1.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on006850",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on006850",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds006850",
+      "identifier_type": "DOI",
+      "relation_type": "IsVersionOf"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "unofficial extension",
-  "recording_modality": [
-    "eeg"
-  ],
-  "datatypes": [
-    "eeg"
   ],
   "funding_references": [
     {
       "funder_name": "This Study was realized by funding from the Berlin University Alliance."
+    },
+    {
+      "funder_name": "Berlin University Alliance"
     }
   ],
-  "acknowledgements": "Thanks to Kim Aljoscha Bressem for his help with data collection"
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "18.1 KB (14 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".json",
+    ".md",
+    ".tsv",
+    ".vhdr",
+    ".vmrk"
+  ],
+  "description": "This dataset comprises continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination). The study investigates how different urban environmental elements influence subjective appraisals and neural responses, with stimulus features extracted via semantic segmentation. Data were collected at 500 Hz using 64-channel EEG with active electrodes, supplemented by cardiac and electrodermal measurements.",
+  "methods_description": "EEG data were acquired using 64-channel BrainAmp DC amplifiers (BrainProducts) with actively amplified wet electrodes in the 10-20 system (FCz reference), sampled at 500 Hz with 16-bit resolution and 0.016 Hz high-pass filter. ECG was recorded from right clavicle and left shinbone; EDA from middle and ring fingers of the non-dominant hand using velcro electrodes. Note: EDA data is labeled in microVolts but the actual unit is microSiemens. Participants viewed 56 Streetview images presented on a 27-inch monitor (60 Hz, 2560×1440p) and provided ratings on nine scales across two blocks separated by a break. Baseline recordings (3 minutes, eyes open) were acquired at experiment start and end.",
+  "keywords": [
+    {
+      "term": "EEG",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "Electrocardiography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004562"
+    },
+    {
+      "term": "electrodermal activity",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004644"
+    },
+    {
+      "term": "urban environments"
+    },
+    {
+      "term": "event-related potentials",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D005071"
+    },
+    {
+      "term": "subjective rating"
+    },
+    {
+      "term": "environmental psychology"
+    },
+    {
+      "term": "physiological recording"
+    },
+    {
+      "term": "psychophysiology",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D011602"
+    },
+    {
+      "term": "semantic segmentation"
+    },
+    {
+      "term": "street imagery"
+    }
+  ],
+  "source_hash": "04496eb6ee74a8aad37b1198ba308308455e8ca6da3716cf7838ccf8710d8b4c"
 }
