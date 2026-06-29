@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
+  "description": "This dataset comprises continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments. Participants rated 56 different urban scenes on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination) while neural responses were recorded. The study investigates how different urban environmental elements influence subjective appraisals and neural responses, with semantic segmentation features extracted from stimuli to predict both behavioral ratings and event-related potentials.",
+  "methods_description": "EEG data were collected using 64-channel active wet electrodes in the 10-20 system (FCz reference) sampled at 500 Hz with 16-bit resolution using BrainAmp DC amplifiers. ECG was recorded from two electrodes (right clavicle and left shinbone) and EDA from the middle and ring fingers of the non-dominant hand using velcro electrodes. Electrode impedances were maintained below 10 kOhm. Stimuli were presented on a 27-inch monitor (2560×1440 resolution, 60 Hz refresh rate) using Psychtoolbox. Participants completed two experimental blocks of 28 stimuli each, separated by a break, with each stimulus rated on nine scales following a 1000 ms prime word pair, 500 ms fixation cross, and 3000 ms stimulus presentation.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -9,12 +11,45 @@
     "Isabelle Sander": {},
     "Klaus Gramann": {}
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds006850.v1.0.0",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "EEG"
     },
+    {
+      "term": "event-related potentials"
+    },
+    {
+      "term": "urban environments"
+    },
+    {
+      "term": "electrocardiography"
+    },
+    {
+      "term": "electrodermal activity"
+    },
+    {
+      "term": "subjective rating"
+    },
+    {
+      "term": "environmental psychology"
+    },
+    {
+      "term": "semantic segmentation"
+    },
+    {
+      "term": "Streetview"
+    },
+    {
+      "term": "urban psychology"
+    },
+    {
+      "term": "urban perception"
+    },
+    {
+      "term": "psychophysiology"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on006850",
       "identifier_type": "URL",
@@ -29,6 +64,11 @@
       "identifier": "10.18112/openneuro.ds006850",
       "identifier_type": "DOI",
       "relation_type": "IsVersionOf"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds006850.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
@@ -40,12 +80,12 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
-    "18.1 KB (14 files)"
+    "37.2 GB (379 files)"
   ],
   "formats": [
     ".eeg",
@@ -53,54 +93,8 @@
     ".md",
     ".tsv",
     ".vhdr",
-    ".vmrk"
+    ".vmrk",
+    ".yml"
   ],
-  "description": "This dataset comprises continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination). The study investigates how different urban environmental elements influence subjective appraisals and neural responses, with stimulus features extracted via semantic segmentation. Data were collected at 500 Hz using 64-channel EEG with active electrodes, supplemented by cardiac and electrodermal measurements.",
-  "methods_description": "EEG data were acquired using 64-channel BrainAmp DC amplifiers (BrainProducts) with actively amplified wet electrodes in the 10-20 system (FCz reference), sampled at 500 Hz with 16-bit resolution and 0.016 Hz high-pass filter. ECG was recorded from right clavicle and left shinbone; EDA from middle and ring fingers of the non-dominant hand using velcro electrodes. Note: EDA data is labeled in microVolts but the actual unit is microSiemens. Participants viewed 56 Streetview images presented on a 27-inch monitor (60 Hz, 2560×1440p) and provided ratings on nine scales across two blocks separated by a break. Baseline recordings (3 minutes, eyes open) were acquired at experiment start and end.",
-  "keywords": [
-    {
-      "term": "EEG",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    },
-    {
-      "term": "Electrocardiography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004562"
-    },
-    {
-      "term": "electrodermal activity",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004644"
-    },
-    {
-      "term": "urban environments"
-    },
-    {
-      "term": "event-related potentials",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D005071"
-    },
-    {
-      "term": "subjective rating"
-    },
-    {
-      "term": "environmental psychology"
-    },
-    {
-      "term": "physiological recording"
-    },
-    {
-      "term": "psychophysiology",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D011602"
-    },
-    {
-      "term": "semantic segmentation"
-    },
-    {
-      "term": "street imagery"
-    }
-  ],
-  "source_hash": "04496eb6ee74a8aad37b1198ba308308455e8ca6da3716cf7838ccf8710d8b4c"
+  "source_hash": "e5587b13d6b407705f6e0e85301b2c9df8aef4ea9da80f1bde52fd4ee92395ef"
 }
