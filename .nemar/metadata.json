@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
-  "description": "This dataset comprises continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments. Participants rated 56 different urban scenes on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, and fascination) while neural responses were recorded. The study investigates how different urban environmental elements influence subjective appraisals and neural processing, with semantic segmentation features extracted from stimuli to predict both behavioral ratings and event-related potentials.",
-  "methods_description": "EEG data were collected from 63 participants using 64-channel active wet electrodes in the 10-20 system (FCz reference) sampled at 500 Hz with 16-bit resolution using BrainAmp DC amplifiers. ECG was recorded from two electrodes (right clavicle and left shinbone) and EDA from the middle and ring fingers of the non-dominant hand using velcro electrodes. Stimuli (56 Streetview images) were presented on a 27-inch monitor at 2560×1440 resolution using Psychtoolbox. Participants rated each stimulus on nine scales across two blocks separated by a break, with a 3-minute baseline recording at experiment start and end. Note: EDA data is labeled in microVolts but represents microSiemens units.",
+  "description": "This dataset contains continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments across nine subjective scales (e.g., valence, safety, beauty). The study aims to investigate how urban environmental features influence subjective appraisal and neural responses such as stimulus-locked ERPs. Data were collected in 2024 at the BeMoBIL lab, TU Berlin.",
+  "methods_description": "64-channel EEG data were recorded using actively amplified wet electrodes in the 10-20 system referenced to FCz, along with ECG (right clavicle and left shinbone) and EDA (middle and ring fingers of the non-dominant hand) using BrainAmp DC amplifiers (BrainProducts GmbH). Data were sampled at 500 Hz with 16-bit resolution and a 0.016 Hz high-pass filter. Participants viewed 56 Streetview images and rated each on 9 scales across two blocks separated by a break, with EEG, ECG, and EDA recorded throughout.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -16,37 +16,31 @@
       "term": "EEG"
     },
     {
+      "term": "ECG"
+    },
+    {
+      "term": "Electrodermal Activity"
+    },
+    {
+      "term": "urban environment"
+    },
+    {
       "term": "event-related potentials"
-    },
-    {
-      "term": "urban environments"
-    },
-    {
-      "term": "electrocardiography"
-    },
-    {
-      "term": "electrodermal activity"
     },
     {
       "term": "subjective rating"
     },
     {
-      "term": "environmental psychology"
+      "term": "BIDS"
     },
     {
-      "term": "Streetview"
+      "term": "BeMoBIL"
     },
     {
-      "term": "semantic segmentation"
+      "term": "mobile brain/body imaging"
     },
     {
-      "term": "environmental perception"
-    },
-    {
-      "term": "urban psychology"
-    },
-    {
-      "term": "environmental appraisal"
+      "term": "Streetview images"
     },
     {
       "term": "psychophysiology"
