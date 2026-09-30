@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
-  "description": "This dataset contains continuous EEG, ECG, and EDA recordings from 63 participants who viewed and rated Streetview images of urban environments across nine subjective scales (e.g., valence, safety, beauty). The study aims to investigate how urban environmental features influence subjective appraisal and neural responses such as stimulus-locked ERPs. Data were collected in 2024 at the BeMoBIL lab, TU Berlin.",
-  "methods_description": "64-channel EEG data were recorded using actively amplified wet electrodes in the 10-20 system referenced to FCz, along with ECG (right clavicle and left shinbone) and EDA (middle and ring fingers of the non-dominant hand) using BrainAmp DC amplifiers (BrainProducts GmbH). Data were sampled at 500 Hz with 16-bit resolution and a 0.016 Hz high-pass filter. Participants viewed 56 Streetview images and rated each on 9 scales across two blocks separated by a break, with EEG, ECG, and EDA recorded throughout.",
+  "description": "This dataset contains continuous EEG, ECG and electrodermal activity (EDA) recordings from 63 participants who viewed and rated 56 Streetview images of urban environments. Each image was rated on nine subjective scales (arousal, valence, dominance, stress, openness, safety, beauty, hominess, fascination). The data support investigation of how urban environments and their visual elements influence appraisals and neural responses, including stimulus-onset ERPs.",
+  "methods_description": "64-channel wet-electrode EEG (10-20 system, FCz reference) plus ECG and EDA were recorded at 500 Hz with BrainAmp DC amplifiers (BrainProducts). Participants sat in front of a 27-inch monitor and, using Psychtoolbox in MATLAB, viewed 56 Streetview images (3000 ms each) after a word-pair prime and fixation cross. They then rated each image on nine scales, giving 504 trials across two blocks separated by a break. Eyes-open baseline recordings of 3 min were taken at the start and end of the experiment.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -16,10 +16,14 @@
       "term": "EEG"
     },
     {
-      "term": "ECG"
+      "term": "Electrocardiography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004562"
     },
     {
-      "term": "Electrodermal Activity"
+      "term": "Galvanic Skin Response",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D005712"
     },
     {
       "term": "urban environment"
@@ -28,22 +32,7 @@
       "term": "event-related potentials"
     },
     {
-      "term": "subjective rating"
-    },
-    {
-      "term": "BIDS"
-    },
-    {
-      "term": "BeMoBIL"
-    },
-    {
-      "term": "mobile brain/body imaging"
-    },
-    {
-      "term": "Streetview images"
-    },
-    {
-      "term": "psychophysiology"
+      "term": "environmental appraisal"
     }
   ],
   "related_identifiers": [
@@ -82,7 +71,7 @@
     "eeg"
   ],
   "sizes": [
-    "37.2 GB (379 files)"
+    "34.67 GB (379 files)"
   ],
   "formats": [
     ".eeg",
